@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+whereExists(function () {
+  this.from('accounts').where('users.id', 'accounts.user_id')
+})]]></content>
+  <tabTrigger>ado-qwhereExists</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

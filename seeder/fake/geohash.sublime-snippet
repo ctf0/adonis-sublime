@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.geohash()]]></content>
+  <tabTrigger>ado-fgeohash</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

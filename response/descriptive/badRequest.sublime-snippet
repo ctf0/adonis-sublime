@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.badRequest('msg')]]></content>
+  <tabTrigger>ado-resbadRequest</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

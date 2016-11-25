@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.partialContent('msg')]]></content>
+  <tabTrigger>ado-respartialContent</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

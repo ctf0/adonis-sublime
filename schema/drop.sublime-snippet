@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.drop('tableName')]]></content>
+  <tabTrigger>ado-schemadrop</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

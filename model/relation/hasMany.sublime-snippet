@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[return this.hasMany('App/Model/Name') ]]></content>
+  <tabTrigger>ado-mhasMany</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

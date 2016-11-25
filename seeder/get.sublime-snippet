@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Factory.get('tableName').reset/create()]]></content>
+  <tabTrigger>ado-factoryget</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

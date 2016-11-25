@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield res.sendView('viewName')]]></content>
+  <tabTrigger>ado-resview</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

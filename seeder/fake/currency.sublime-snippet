@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.currency()]]></content>
+  <tabTrigger>ado-fcurrency</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

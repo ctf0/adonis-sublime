@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[toJSON()]]></content>
+  <tabTrigger>tojson</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

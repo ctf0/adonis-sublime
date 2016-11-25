@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.is('html', 'plain')]]></content>
+  <tabTrigger>ado-reqis</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

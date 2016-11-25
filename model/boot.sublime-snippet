@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Unfortunately, Javascript has no way of defining traits/mixins natively.
+ * Lucid models makes it easier for you to add traits to your models and extend them by adding new methods/properties.
+ */
+static boot () {
+    super.boot()
+}]]></content>
+  <tabTrigger>ado-mBoot</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

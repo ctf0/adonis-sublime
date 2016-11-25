@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.download('file_path')]]></content>
+  <tabTrigger>ado-resdownload</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.seeOther('msg')]]></content>
+  <tabTrigger>ado-resseeOther</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

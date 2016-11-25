@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.dateTime('column')]]></content>
+  <tabTrigger>ado-tdateTime</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

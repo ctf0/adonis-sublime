@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.ip()]]></content>
+  <tabTrigger>ado-fip</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[joinRaw('accounts', 'user.id', 'accounts.user_id')]]></content>
+  <tabTrigger>ado-qjoinRaw</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

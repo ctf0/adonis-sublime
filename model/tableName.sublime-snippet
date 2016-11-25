@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * To override the 'conventional' model table name.
+ */
+static get table () {
+    return 'table_name'
+}]]></content>
+  <tabTrigger>ado-mTable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

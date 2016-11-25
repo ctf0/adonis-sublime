@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.unique([columns])]]></content>
+  <tabTrigger>ado-tunique</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

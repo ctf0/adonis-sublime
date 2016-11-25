@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.multipleChoices('msg')]]></content>
+  <tabTrigger>ado-resmultipleChoices</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

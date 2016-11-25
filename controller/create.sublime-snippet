@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Show the form for creating a new resource.
+ */
+* create(request, response) {
+    $0
+}
+]]></content>
+  <tabTrigger>ado-cCreate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

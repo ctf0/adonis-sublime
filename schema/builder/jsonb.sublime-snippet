@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.jsonb('column')]]></content>
+  <tabTrigger>ado-tjsonb</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

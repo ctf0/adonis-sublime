@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[groupBy('column').having('column', '>', 1)]]></content>
+  <tabTrigger>ado-qhaving</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

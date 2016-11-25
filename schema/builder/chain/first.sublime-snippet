@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[first()]]></content>
+  <tabTrigger>ado-tfirst</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

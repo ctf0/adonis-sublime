@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[rightOuterJoin('accounts', 'user.id', 'accounts.user_id')]]></content>
+  <tabTrigger>ado-qrightOuterJoin</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

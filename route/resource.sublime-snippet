@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Route.resource('url', 'Controller')]]></content>
+  <tabTrigger>ado-rResource</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

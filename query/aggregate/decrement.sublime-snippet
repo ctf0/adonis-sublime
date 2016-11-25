@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[decrement('column', 1)]]></content>
+  <tabTrigger>ado-qdecrement</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

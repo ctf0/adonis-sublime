@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.enu('column',[values])]]></content>
+  <tabTrigger>ado-tenu</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

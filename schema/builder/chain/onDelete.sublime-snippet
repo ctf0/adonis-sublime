@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[onDelete(RESTRICT, CASCADE, SET NULL, NO ACTION)]]></content>
+  <tabTrigger>ado-tonDelete</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

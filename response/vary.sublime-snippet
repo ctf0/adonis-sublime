@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.vary('Accept-Encoding')]]></content>
+  <tabTrigger>ado-resvary</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

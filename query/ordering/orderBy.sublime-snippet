@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[orderBy('column', 'asc/desc')]]></content>
+  <tabTrigger>ado-qorderBy</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

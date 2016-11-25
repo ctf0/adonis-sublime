@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[return this.belongsTo('App/Model/Name') ]]></content>
+  <tabTrigger>ado-mbelongsTo</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

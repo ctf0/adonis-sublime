@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.forbidden('msg')]]></content>
+  <tabTrigger>ado-resforbidden</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

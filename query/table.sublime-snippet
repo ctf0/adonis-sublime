@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table('tableName')]]></content>
+  <tabTrigger>ado-qtable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

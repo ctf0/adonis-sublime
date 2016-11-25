@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.requestedRangeNotSatisfiable('msg')]]></content>
+  <tabTrigger>ado-resrequestedRangeNotSatisfiable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

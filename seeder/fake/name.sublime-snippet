@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.name()]]></content>
+  <tabTrigger>ado-fname</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

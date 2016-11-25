@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.bigInteger('column')]]></content>
+  <tabTrigger>ado-tbigInteger</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

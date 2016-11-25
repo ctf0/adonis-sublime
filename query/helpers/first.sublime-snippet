@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[first()]]></content>
+  <tabTrigger>ado-qfirst</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

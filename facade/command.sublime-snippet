@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const Command = use('Command')]]></content>
+  <tabTrigger>ado-facadeCommand</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

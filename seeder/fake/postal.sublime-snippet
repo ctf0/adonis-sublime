@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.postal()]]></content>
+  <tabTrigger>ado-fpostal</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

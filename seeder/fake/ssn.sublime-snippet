@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.ssn()]]></content>
+  <tabTrigger>ado-fssn</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

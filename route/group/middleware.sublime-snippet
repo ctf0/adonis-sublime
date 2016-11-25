@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Route.group('something', function () {
+    // ...
+}).middleware('name')
+]]></content>
+  <tabTrigger>ado-rGrMiddlware</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

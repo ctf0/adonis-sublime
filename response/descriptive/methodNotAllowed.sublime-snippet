@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.methodNotAllowed('msg')]]></content>
+  <tabTrigger>ado-resmethodNotAllowed</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

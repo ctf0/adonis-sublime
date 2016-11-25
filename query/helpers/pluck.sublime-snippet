@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[pluck('column')]]></content>
+  <tabTrigger>ado-qpluck</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

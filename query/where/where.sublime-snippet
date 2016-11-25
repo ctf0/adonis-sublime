@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[where('foo','bar')]]></content>
+  <tabTrigger>ado-qwhere</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

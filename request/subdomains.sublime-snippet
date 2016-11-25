@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.subdomains()]]></content>
+  <tabTrigger>ado-reqsubdomains</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

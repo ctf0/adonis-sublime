@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[return this.hasManyThrough('App/Model/ModelOne', 'App/Model/ModelTwo') ]]></content>
+  <tabTrigger>ado-mhasManyThrough</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

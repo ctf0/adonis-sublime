@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.redirect('url', 301)]]></content>
+  <tabTrigger>ado-resredirect</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

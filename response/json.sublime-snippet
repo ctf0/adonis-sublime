@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.json(item)]]></content>
+  <tabTrigger>ado-resjson</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

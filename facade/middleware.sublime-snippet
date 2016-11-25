@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const Middleware = use('Middleware')]]></content>
+  <tabTrigger>ado-facadeMiddleware</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

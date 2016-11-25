@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.unsupportedMediaType('msg')]]></content>
+  <tabTrigger>ado-resunsupportedMediaType</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

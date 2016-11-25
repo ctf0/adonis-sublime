@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[sum('column')]]></content>
+  <tabTrigger>ado-qsum</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

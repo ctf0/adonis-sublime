@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[min('column')]]></content>
+  <tabTrigger>ado-qmin</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

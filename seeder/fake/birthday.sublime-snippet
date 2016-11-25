@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.birthday()]]></content>
+  <tabTrigger>ado-fbirthday</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

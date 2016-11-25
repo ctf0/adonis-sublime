@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.first()]]></content>
+  <tabTrigger>ado-ffirst</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

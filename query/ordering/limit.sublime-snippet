@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[limit(1)]]></content>
+  <tabTrigger>ado-qLimit</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

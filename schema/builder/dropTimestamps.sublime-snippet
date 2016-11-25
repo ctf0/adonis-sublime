@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.dropTimestamps()]]></content>
+  <tabTrigger>ado-tdropTimestamps</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

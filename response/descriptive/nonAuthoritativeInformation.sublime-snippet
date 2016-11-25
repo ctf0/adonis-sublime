@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.nonAuthoritativeInformation('msg')]]></content>
+  <tabTrigger>ado-resnonAuthoritativeInformation</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

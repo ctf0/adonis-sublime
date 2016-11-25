@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.accepts('json', 'html')]]></content>
+  <tabTrigger>ado-reqaccepts</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

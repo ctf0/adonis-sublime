@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.wp7_anid()]]></content>
+  <tabTrigger>ado-fwp7_anid</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

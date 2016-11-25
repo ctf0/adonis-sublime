@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.hashtag()]]></content>
+  <tabTrigger>ado-fhashtag</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

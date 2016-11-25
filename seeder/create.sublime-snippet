@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Factory.model('App/Model/Name').create(5)]]></content>
+  <tabTrigger>ado-factorycreate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

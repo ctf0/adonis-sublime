@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[notNullable()]]></content>
+  <tabTrigger>ado-tnotNullable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

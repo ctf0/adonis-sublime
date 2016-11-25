@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.preconditionFailed('msg')]]></content>
+  <tabTrigger>ado-respreconditionFailed</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

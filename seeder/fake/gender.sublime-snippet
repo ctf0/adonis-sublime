@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.gender()]]></content>
+  <tabTrigger>ado-fgender</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

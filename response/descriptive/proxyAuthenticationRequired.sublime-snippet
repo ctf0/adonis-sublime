@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.proxyAuthenticationRequired('msg')]]></content>
+  <tabTrigger>ado-resproxyAuthenticationRequired</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

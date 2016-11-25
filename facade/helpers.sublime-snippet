@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const Helpers = use('Helpers')]]></content>
+  <tabTrigger>ado-facadeHelpers</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

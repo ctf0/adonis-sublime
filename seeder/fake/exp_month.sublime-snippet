@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.exp_month()]]></content>
+  <tabTrigger>ado-fexp_month</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

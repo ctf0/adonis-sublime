@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.set('key','value')]]></content>
+  <tabTrigger>ado-fset</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

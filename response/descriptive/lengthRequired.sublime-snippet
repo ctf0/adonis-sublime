@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.lengthRequired('msg')]]></content>
+  <tabTrigger>ado-reslengthRequired</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

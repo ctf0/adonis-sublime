@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+this.raw('SET sql_mode="TRADITIONAL"').create('tableName', (table) => {
+  table.increments()
+})
+]]></content>
+  <tabTrigger>ado-schemaraw</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

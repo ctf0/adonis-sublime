@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[forPage(page,limit)]]></content>
+  <tabTrigger>ado-qforPage</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

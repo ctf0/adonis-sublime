@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.secure()]]></content>
+  <tabTrigger>ado-reqsecure</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

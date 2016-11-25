@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+this.db(function * (database) {
+  const names = yield database.from('tableName').pluck('column')
+})
+]]></content>
+  <tabTrigger>ado-schemadb</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

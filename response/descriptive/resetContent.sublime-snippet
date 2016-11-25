@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.resetContent('msg')]]></content>
+  <tabTrigger>ado-resresetContent</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.serviceUnavailable('msg')]]></content>
+  <tabTrigger>ado-resserviceUnavailable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

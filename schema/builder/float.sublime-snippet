@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.float('column',[precision], [scale])]]></content>
+  <tabTrigger>ado-tfloat</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

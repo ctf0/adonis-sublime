@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Env.set('NAME', 'default')]]></content>
+  <tabTrigger>ado-setEnv</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

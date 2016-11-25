@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.internalServerError('msg')]]></content>
+  <tabTrigger>ado-resinternalServerError</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.jsonp({ name: 'doe' })]]></content>
+  <tabTrigger>ado-resjsonp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

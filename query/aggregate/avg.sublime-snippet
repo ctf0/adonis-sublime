@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[avg('column')]]></content>
+  <tabTrigger>ado-qavg</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

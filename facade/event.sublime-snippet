@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const Event = use('Event')]]></content>
+  <tabTrigger>ado-facadeEvent</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

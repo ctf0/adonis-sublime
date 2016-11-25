@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.pick([array])]]></content>
+  <tabTrigger>ado-fpick</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

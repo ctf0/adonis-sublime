@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.boolean('column')]]></content>
+  <tabTrigger>ado-tboolean</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

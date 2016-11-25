@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.bb_pin()]]></content>
+  <tabTrigger>ado-fbb_pin</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

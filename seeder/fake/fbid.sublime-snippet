@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.fbid()]]></content>
+  <tabTrigger>ado-ffbid</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

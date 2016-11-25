@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.areacode()]]></content>
+  <tabTrigger>ado-fareacode</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

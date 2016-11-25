@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.match('pattern')]]></content>
+  <tabTrigger>ado-reqmatch</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

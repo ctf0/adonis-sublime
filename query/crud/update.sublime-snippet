@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[update({foo: 'bar', baz: 'qux'})]]></content>
+  <tabTrigger>ado-qupdate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

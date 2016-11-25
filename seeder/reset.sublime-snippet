@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Truncate the table for a given model
+ */
+Factory.model('App/Model/Name').reset()
+]]></content>
+  <tabTrigger>ado-factoryreset</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

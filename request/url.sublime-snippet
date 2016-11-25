@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.url()]]></content>
+  <tabTrigger>ado-requrl</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Hide/Omit Fields From JSON Output
+ */
+static get hidden () {
+    return ['password']
+}]]></content>
+  <tabTrigger>ado-mHidden</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.integer('column')]]></content>
+  <tabTrigger>ado-tinteger</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.route('routeName', {data}, 200)]]></content>
+  <tabTrigger>ado-resredirectRoute</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

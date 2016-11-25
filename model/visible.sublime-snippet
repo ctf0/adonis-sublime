@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Show only those Fields in the JSON Output
+ */
+static get visible () {
+    return ['title','body']
+}]]></content>
+  <tabTrigger>ado-mVisible</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

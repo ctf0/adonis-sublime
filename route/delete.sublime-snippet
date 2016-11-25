@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Route.delete('/url', function*(req,res){
+    // ...
+})]]></content>
+  <tabTrigger>ado-rDelete</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

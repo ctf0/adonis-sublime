@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Route.group('something', function () {
+    // ...
+}).domain('name')
+]]></content>
+  <tabTrigger>ado-rGrDomain</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

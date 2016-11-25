@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[outerJoin('accounts', 'user.id', 'accounts.user_id')]]></content>
+  <tabTrigger>ado-qouterJoin</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

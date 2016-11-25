@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+const trx = yield Database.beginTransaction()
+yield trx.insert({foo: 'bar'}).into('tableName')
+
+trx.commit() // commit/save data
+trx.rollback() // undo inserted data
+]]></content>
+  <tabTrigger>ado-qbeginTransaction</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

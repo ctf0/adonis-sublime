@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.latitude()]]></content>
+  <tabTrigger>ado-flatitude</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

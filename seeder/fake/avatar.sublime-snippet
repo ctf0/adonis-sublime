@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.avatar()]]></content>
+  <tabTrigger>ado-favatar</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

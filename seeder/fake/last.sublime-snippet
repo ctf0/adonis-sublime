@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.last()]]></content>
+  <tabTrigger>ado-flast</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

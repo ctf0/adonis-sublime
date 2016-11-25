@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.timestamp()]]></content>
+  <tabTrigger>ado-ftimestamp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

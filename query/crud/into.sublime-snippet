@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[into('tableName')]]></content>
+  <tabTrigger>ado-qinto</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

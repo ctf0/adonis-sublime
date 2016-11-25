@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[clone()]]></content>
+  <tabTrigger>ado-qclone</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

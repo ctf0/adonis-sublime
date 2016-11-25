@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.binary('column',[length])]]></content>
+  <tabTrigger>ado-tbinary</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.dropIfExists('tableName')]]></content>
+  <tabTrigger>ado-schemadropIfExists</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

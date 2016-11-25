@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Each model needs to have a primary key which is set to 'id' by default.
+ * Value for primary key is auto-populated by Lucid whenever you save a new model to the database.
+ * Also, the primary key is required to resolve model relations.
+ */
+static get primaryKey () {
+    return 'keyName'
+}]]></content>
+  <tabTrigger>ado-mPriKey</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

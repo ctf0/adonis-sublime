@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.pad(number, width, padder)]]></content>
+  <tabTrigger>ado-fpad</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

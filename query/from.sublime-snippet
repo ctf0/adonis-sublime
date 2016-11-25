@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[from('tableName')]]></content>
+  <tabTrigger>ado-qfrom</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

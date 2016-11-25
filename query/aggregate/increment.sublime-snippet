@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[increment('column', 1)]]></content>
+  <tabTrigger>ado-qincrement</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

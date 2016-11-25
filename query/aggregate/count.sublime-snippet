@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[count('column')]]></content>
+  <tabTrigger>ado-qcount</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

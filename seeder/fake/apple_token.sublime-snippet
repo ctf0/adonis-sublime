@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.apple_token()]]></content>
+  <tabTrigger>ado-fapple_token</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

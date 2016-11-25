@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.tooManyRequests('msg')]]></content>
+  <tabTrigger>ado-restooManyRequests</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

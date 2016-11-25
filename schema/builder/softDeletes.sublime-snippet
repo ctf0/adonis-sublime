@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.softDeletes()]]></content>
+  <tabTrigger>ado-tsoftDeletes</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

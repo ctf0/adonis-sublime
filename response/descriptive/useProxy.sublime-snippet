@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.useProxy('msg')]]></content>
+  <tabTrigger>ado-resuseProxy</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

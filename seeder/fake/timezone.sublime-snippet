@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.timezone()]]></content>
+  <tabTrigger>ado-ftimezone</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

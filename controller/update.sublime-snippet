@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Update the specified resource in storage.
+ */
+* update(request, response) {
+    $0
+}
+]]></content>
+  <tabTrigger>ado-cUpdate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

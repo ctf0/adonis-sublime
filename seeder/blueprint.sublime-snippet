@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+Factory.blueprint('App/Model/Name', (fake) => {
+  return {
+    // ...
+  }
+})]]></content>
+  <tabTrigger>ado-factoryblueprint</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

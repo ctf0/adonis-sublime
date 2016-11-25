@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.fresh()]]></content>
+  <tabTrigger>ado-reqfresh</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

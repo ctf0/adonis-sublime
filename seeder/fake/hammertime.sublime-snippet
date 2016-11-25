@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.hammertime()]]></content>
+  <tabTrigger>ado-fhammertime</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

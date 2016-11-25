@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Route.on('/url').render('viewName');]]></content>
+  <tabTrigger>ado-rOn</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

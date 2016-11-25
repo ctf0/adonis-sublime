@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.renameColumn('from','to')]]></content>
+  <tabTrigger>ado-trenameColumn</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

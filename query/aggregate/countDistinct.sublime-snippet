@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[countDistinct('column')]]></content>
+  <tabTrigger>ado-qcountDistinct</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

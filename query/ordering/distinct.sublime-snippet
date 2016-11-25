@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[distinct('column')]]></content>
+  <tabTrigger>ado-qdistinct</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

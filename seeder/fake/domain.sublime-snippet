@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.domain()]]></content>
+  <tabTrigger>ado-fdomain</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

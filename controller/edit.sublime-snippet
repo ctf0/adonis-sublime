@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Show the form for editing the specified resource.
+*/
+* edit(request, response) {
+    $0
+}
+]]></content>
+  <tabTrigger>ado-cEdit</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

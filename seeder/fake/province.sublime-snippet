@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.province()]]></content>
+  <tabTrigger>ado-fprovince</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

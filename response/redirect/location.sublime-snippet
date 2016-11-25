@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.location('url')]]></content>
+  <tabTrigger>ado-reslocation</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

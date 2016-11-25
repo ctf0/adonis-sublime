@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.second()]]></content>
+  <tabTrigger>ado-fsecond</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

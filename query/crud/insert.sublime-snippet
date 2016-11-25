@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[insert({foo: 'bar', baz: 'qux'})]]></content>
+  <tabTrigger>ado-qinsert</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

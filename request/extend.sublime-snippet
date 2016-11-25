@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+const Request = use('Adonis/Src/Request')
+Request.macro('cartValue', function () {
+    // return this.cookie('cartValue', 0)
+})]]></content>
+  <tabTrigger>ado-reqreqExtend</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

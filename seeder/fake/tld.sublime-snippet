@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.tld()]]></content>
+  <tabTrigger>ado-ftld</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[whereRaw('id = ?', [20])]]></content>
+  <tabTrigger>ado-qwhereRaw</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

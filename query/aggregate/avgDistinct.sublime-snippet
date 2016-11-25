@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[avgDistinct('column')]]></content>
+  <tabTrigger>ado-qavgDistinct</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

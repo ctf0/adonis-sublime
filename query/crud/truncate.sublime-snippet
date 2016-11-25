@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[truncate('tableName')]]></content>
+  <tabTrigger>ado-qtruncate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

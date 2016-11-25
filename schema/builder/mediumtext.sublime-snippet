@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.text('column','mediumtext')]]></content>
+  <tabTrigger>ado-tmediumtext</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

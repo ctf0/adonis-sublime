@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.exp()]]></content>
+  <tabTrigger>ado-fexp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

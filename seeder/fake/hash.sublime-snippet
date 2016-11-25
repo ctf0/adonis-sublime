@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.hash()]]></content>
+  <tabTrigger>ado-fhash</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

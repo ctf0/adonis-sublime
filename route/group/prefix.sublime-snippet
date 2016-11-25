@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Route.group('something', function () {
+    // ...
+}).prefix('name')
+]]></content>
+  <tabTrigger>ado-rGrPrefix</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

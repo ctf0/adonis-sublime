@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.dropColumns('column','column')]]></content>
+  <tabTrigger>ado-tdropColumns</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

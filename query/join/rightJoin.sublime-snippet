@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[rightJoin('accounts', 'user.id', 'accounts.user_id')]]></content>
+  <tabTrigger>ado-qrightJoin</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

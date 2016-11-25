@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+.addCollection('routeName', [verbs], (collection) => {
+    // collection.bindAction('popularAuthors')
+})]]></content>
+  <tabTrigger>ado-rAddCollection</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

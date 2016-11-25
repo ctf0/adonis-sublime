@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.rename('old_tableName','new_tableName')]]></content>
+  <tabTrigger>ado-schemarename</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

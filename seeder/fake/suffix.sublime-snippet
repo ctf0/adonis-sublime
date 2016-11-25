@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.suffix()]]></content>
+  <tabTrigger>ado-fsuffix</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[.formats(['json', 'html'])]]></content>
+  <tabTrigger>ado-rFormat</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.string()]]></content>
+  <tabTrigger>ado-fstring</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

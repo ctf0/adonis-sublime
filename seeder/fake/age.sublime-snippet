@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.age()]]></content>
+  <tabTrigger>ado-fage</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

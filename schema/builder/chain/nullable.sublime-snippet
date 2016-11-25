@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[nullable()]]></content>
+  <tabTrigger>ado-tnullable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

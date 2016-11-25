@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[whereIn('foo',[1,2,3])]]></content>
+  <tabTrigger>ado-qwhereIn</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

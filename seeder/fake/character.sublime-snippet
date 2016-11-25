@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.character()]]></content>
+  <tabTrigger>ado-fcharacter</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

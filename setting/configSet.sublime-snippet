@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const Config = use('Config')
+Config.set('file.key', 'value')
+]]></content>
+  <tabTrigger>ado-setConf</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[select('one/*')]]></content>
+  <tabTrigger>ado-qselect</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

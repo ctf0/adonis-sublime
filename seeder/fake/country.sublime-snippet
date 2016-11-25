@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.country()]]></content>
+  <tabTrigger>ado-fcountry</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

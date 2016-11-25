@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.month()]]></content>
+  <tabTrigger>ado-fmonth</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

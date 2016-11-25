@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.address()]]></content>
+  <tabTrigger>ado-faddress</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

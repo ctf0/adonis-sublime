@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const Schema = use('Schema')]]></content>
+  <tabTrigger>ado-facadeSchema</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

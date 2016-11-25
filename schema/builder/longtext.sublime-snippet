@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.text('column','longtext')]]></content>
+  <tabTrigger>ado-tlongtext</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

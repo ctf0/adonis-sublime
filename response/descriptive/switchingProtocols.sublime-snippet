@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.switchingProtocols('msg')]]></content>
+  <tabTrigger>ado-resswitchingProtocols</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

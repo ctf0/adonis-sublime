@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Every time you modify a row in a database table updateTimestamp will be updated to the current time.
+ */
+static get updateTimestamp () {
+    return 'updated_at'
+}]]></content>
+  <tabTrigger>ado-mupdateTimestamp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

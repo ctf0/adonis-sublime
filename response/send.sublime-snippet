@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.send('hello there')]]></content>
+  <tabTrigger>ado-ressend</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

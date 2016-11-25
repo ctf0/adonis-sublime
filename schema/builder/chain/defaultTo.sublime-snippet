@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[defaultTo('val')]]></content>
+  <tabTrigger>ado-tdefaultTo</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

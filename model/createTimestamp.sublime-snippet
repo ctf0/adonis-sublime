@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Create timestamp defines the database field to be used for adding row creation time to the database table.
+ * You can override this property to specify a different field name or return null to disable
+ */
+static get createTimestamp () {
+    return 'created_at/null'
+}]]></content>
+  <tabTrigger>ado-mcreateTimestamp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[query()]]></content>
+  <tabTrigger>ado-qquery</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.input('key', 'default')]]></content>
+  <tabTrigger>ado-reqinput</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[paginate(page,limit)]]></content>
+  <tabTrigger>ado-qpaginate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

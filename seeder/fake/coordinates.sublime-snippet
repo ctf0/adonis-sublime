@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.coordinates()]]></content>
+  <tabTrigger>ado-fcoordinates</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

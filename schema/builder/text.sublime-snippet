@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.text('column')]]></content>
+  <tabTrigger>ado-ttext</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

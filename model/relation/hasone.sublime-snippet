@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[return this.hasOne('App/Model/Name') ]]></content>
+  <tabTrigger>ado-mhasOne</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

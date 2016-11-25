@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[returning('column')]]></content>
+  <tabTrigger>ado-qreturning</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

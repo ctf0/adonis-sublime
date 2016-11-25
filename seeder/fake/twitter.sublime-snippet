@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.twitter()]]></content>
+  <tabTrigger>ado-ftwitter</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

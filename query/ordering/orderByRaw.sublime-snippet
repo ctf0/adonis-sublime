@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[orderByRaw('col NULLS LAST DESC')]]></content>
+  <tabTrigger>ado-qorderByRaw</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

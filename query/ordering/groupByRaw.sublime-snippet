@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[groupByRaw('age, status')]]></content>
+  <tabTrigger>ado-qgroupByRaw</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

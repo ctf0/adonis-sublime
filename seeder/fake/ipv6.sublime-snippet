@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.ipv6()]]></content>
+  <tabTrigger>ado-fipv6</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.syllable()]]></content>
+  <tabTrigger>ado-fsyllable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

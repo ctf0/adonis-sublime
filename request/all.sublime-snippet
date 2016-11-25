@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.all()]]></content>
+  <tabTrigger>ado-reqall</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

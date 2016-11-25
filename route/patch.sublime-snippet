@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Route.patch('/url', function*(req,res){
+    // ...
+})]]></content>
+  <tabTrigger>ado-rPatch</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

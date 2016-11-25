@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Remove the specified resource from storage.
+ */
+* destroy(request, response) {
+    $0
+}
+]]></content>
+  <tabTrigger>ado-cDestroy</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

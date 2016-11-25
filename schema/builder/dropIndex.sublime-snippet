@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.dropIndex([columns],[indexName])]]></content>
+  <tabTrigger>ado-tdropIndex</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

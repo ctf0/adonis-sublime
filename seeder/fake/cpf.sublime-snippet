@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.cpf()]]></content>
+  <tabTrigger>ado-fcpf</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

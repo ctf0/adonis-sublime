@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.ips()]]></content>
+  <tabTrigger>ado-reqips</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

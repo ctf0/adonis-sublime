@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.radio()]]></content>
+  <tabTrigger>ado-fradio</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

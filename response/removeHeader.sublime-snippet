@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.removeHeader('key')]]></content>
+  <tabTrigger>ado-resremoveHeader</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

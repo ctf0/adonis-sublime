@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.date()]]></content>
+  <tabTrigger>ado-fdate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

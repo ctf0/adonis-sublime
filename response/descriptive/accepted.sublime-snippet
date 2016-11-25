@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.accepted('msg')]]></content>
+  <tabTrigger>ado-resaccepted</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

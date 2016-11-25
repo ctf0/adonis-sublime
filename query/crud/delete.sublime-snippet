@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[delete()]]></content>
+  <tabTrigger>ado-qdelete</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

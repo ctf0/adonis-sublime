@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.bool()]]></content>
+  <tabTrigger>ado-fbool</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

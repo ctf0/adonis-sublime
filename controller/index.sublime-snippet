@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Display a listing of the resource.
+ */
+* index(request, response) {
+    $0
+}
+]]></content>
+  <tabTrigger>ado-cIndex</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

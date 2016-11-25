@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Route.any('*', function*(req,res){
+    // ...
+})]]></content>
+  <tabTrigger>ado-rAny</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

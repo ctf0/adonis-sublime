@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.hasBody()]]></content>
+  <tabTrigger>ado-reqhasBody</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

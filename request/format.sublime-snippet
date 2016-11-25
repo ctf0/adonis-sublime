@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.format()]]></content>
+  <tabTrigger>ado-reqformat</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

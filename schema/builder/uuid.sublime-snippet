@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.uuid('column')]]></content>
+  <tabTrigger>ado-tuuid</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

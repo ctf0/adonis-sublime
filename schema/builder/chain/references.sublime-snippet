@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[references('column')]]></content>
+  <tabTrigger>ado-treferences</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

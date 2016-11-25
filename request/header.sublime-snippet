@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.header('key', 'default')]]></content>
+  <tabTrigger>ado-reqheader</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

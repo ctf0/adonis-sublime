@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * use a different databases connection for the given model.
+ */
+static get connection () {
+    return 'db_connection_name'
+}]]></content>
+  <tabTrigger>ado-mConnection</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

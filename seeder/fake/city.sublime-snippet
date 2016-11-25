@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.city()]]></content>
+  <tabTrigger>ado-fcity</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

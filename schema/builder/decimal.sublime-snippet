@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.decimal('column',[precision], [scale])]]></content>
+  <tabTrigger>ado-tdecimal</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

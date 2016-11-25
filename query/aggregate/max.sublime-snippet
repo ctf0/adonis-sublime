@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[max('column')]]></content>
+  <tabTrigger>ado-qmax</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.hostname()]]></content>
+  <tabTrigger>ado-reqhostname</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

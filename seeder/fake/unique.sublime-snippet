@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.unique(func,length)]]></content>
+  <tabTrigger>ado-funique</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

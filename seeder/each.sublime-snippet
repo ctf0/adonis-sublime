@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * The each method helps you in running an asynchronous loop over created instances of a model.
+ * It is helpful when you want to save relationship for each created instance.
+ */
+const users = yield Factory.model('App/Model/User').create(5)
+
+users.each(function * (user) {
+  const post = Factory.model('App/Model/Post').make()
+  yield user.posts().save(post);
+})]]></content>
+  <tabTrigger>ado-factoryeach</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

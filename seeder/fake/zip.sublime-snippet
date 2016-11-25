@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.zip()]]></content>
+  <tabTrigger>ado-fzip</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

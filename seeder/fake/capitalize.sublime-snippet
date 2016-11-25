@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.capitalize('string')]]></content>
+  <tabTrigger>ado-fcapitalize</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

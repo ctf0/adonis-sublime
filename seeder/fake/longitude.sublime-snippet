@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.longitude()]]></content>
+  <tabTrigger>ado-flongitude</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

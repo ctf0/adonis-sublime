@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Env.get('NAME', 'default')]]></content>
+  <tabTrigger>ado-getEnv</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

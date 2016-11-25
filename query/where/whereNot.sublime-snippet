@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[whereNot('foo','bar')]]></content>
+  <tabTrigger>ado-qwhereNot</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

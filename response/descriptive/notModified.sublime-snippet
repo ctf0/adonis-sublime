@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.notModified('msg')]]></content>
+  <tabTrigger>ado-resnotModified</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

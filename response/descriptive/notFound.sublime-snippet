@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.notFound('msg')]]></content>
+  <tabTrigger>ado-resnotFound</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * The 'deleteTimestamp' behaves a little different from create and update timestamps.
+ * You should only return value from this method if you want to make use of soft deletes.
+ */
+static get deleteTimestamp () {
+    return 'deleted_at/null'
+}]]></content>
+  <tabTrigger>ado-mdeleteTimestamp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

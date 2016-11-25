@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Display the specified resource.
+ */
+* show(request, response) {
+    $0
+}
+]]></content>
+  <tabTrigger>ado-cShow</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

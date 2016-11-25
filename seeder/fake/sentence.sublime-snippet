@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.sentence()]]></content>
+  <tabTrigger>ado-fsentence</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[whereNotIn('foo',[1,2,3])]]></content>
+  <tabTrigger>ado-qwhereNotIn</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

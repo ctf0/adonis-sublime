@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.expectationFailed('msg')]]></content>
+  <tabTrigger>ado-resexpectationFailed</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

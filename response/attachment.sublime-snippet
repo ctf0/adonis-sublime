@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.attachment('file_path', 'Name')]]></content>
+  <tabTrigger>ado-resattachment</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

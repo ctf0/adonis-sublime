@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const var = yield ModelName.create({
+    field: 'data'
+})]]></content>
+  <tabTrigger>ado-mCreate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const Hash = use('Hash')]]></content>
+  <tabTrigger>ado-facadeHash</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

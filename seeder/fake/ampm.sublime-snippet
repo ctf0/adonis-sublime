@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.ampm()]]></content>
+  <tabTrigger>ado-fampm</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

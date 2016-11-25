@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.shuffle([array])]]></content>
+  <tabTrigger>ado-fshuffle</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

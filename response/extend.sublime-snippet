@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+const Response = use('Adonis/Src/Response')
+Response.macro('sendStatus', function (status) {
+    // this.status(status).send(status)
+})]]></content>
+  <tabTrigger>ado-resExtend</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Query scopes are fluent methods defined on your models as static methods and can be used within the query builder chain.
+ * Think of them as descriptive convenient methods for extending the query builder.
+ *
+ * http://adonisjs.com/docs/3.1/lucid#_query_scopes
+ */
+static scopeActive (builder) {
+    builder.where('status', 'active')
+}]]></content>
+  <tabTrigger>ado-mScope</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

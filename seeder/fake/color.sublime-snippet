@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.color()]]></content>
+  <tabTrigger>ado-fcolor</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

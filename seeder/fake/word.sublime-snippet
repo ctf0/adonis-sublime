@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.word()]]></content>
+  <tabTrigger>ado-fword</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

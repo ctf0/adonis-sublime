@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.pickone([array])]]></content>
+  <tabTrigger>ado-fpickone</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

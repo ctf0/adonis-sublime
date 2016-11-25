@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.depth()]]></content>
+  <tabTrigger>ado-fdepth</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

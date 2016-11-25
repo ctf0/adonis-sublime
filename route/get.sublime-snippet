@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Route.get('/url', function*(req,res){
+    // ...
+})]]></content>
+  <tabTrigger>ado-rGet</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

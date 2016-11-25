@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.stale()]]></content>
+  <tabTrigger>ado-reqstale</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

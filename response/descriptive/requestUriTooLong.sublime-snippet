@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.requestUriTooLong('msg')]]></content>
+  <tabTrigger>ado-resrequestUriTooLong</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Route.put('/url', function*(req,res){
+    // ...
+})]]></content>
+  <tabTrigger>ado-rPut</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

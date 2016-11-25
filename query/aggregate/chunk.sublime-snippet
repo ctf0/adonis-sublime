@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+chunk(200, function (items) {
+  // ...
+})]]></content>
+  <tabTrigger>ado-qchunk</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

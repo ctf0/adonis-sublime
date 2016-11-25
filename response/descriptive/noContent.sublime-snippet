@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.noContent('msg')]]></content>
+  <tabTrigger>ado-resnoContent</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

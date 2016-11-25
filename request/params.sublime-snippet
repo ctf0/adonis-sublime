@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.params()]]></content>
+  <tabTrigger>ado-reqparams</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

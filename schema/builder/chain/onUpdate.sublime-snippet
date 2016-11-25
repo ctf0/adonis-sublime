@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[onUpdate(RESTRICT, CASCADE, SET NULL, NO ACTION)]]></content>
+  <tabTrigger>ado-tonUpdate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

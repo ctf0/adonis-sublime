@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[groupBy('column')]]></content>
+  <tabTrigger>ado-qgroupBy</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

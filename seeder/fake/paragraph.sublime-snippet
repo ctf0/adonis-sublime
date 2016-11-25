@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.paragraph()]]></content>
+  <tabTrigger>ado-fparagraph</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

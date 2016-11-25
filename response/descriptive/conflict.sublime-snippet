@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.conflict('msg')]]></content>
+  <tabTrigger>ado-resconflict</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

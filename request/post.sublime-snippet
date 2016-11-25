@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.post()]]></content>
+  <tabTrigger>ado-reqpost</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

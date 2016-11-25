@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+this.table('tableName', (table) => {
+  table.dropColumn('deleted_at')
+})
+]]></content>
+  <tabTrigger>ado-schematable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

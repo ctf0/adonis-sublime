@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.username()]]></content>
+  <tabTrigger>ado-fusername</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

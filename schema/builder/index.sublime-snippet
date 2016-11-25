@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.index([columns],[indexName])]]></content>
+  <tabTrigger>ado-tindex</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

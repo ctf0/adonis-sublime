@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.google_analytics()]]></content>
+  <tabTrigger>ado-fgoogle_analytics</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

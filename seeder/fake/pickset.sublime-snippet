@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.pickset([array])]]></content>
+  <tabTrigger>ado-fpickset</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.created('msg')]]></content>
+  <tabTrigger>ado-rescreated</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

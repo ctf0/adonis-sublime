@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.hour()]]></content>
+  <tabTrigger>ado-fhour</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

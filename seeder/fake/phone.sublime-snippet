@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.phone()]]></content>
+  <tabTrigger>ado-fphone</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

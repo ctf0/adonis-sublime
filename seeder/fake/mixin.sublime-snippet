@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.mixin(<obj>)]]></content>
+  <tabTrigger>ado-fmixin</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

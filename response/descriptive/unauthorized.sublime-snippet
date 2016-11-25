@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.unauthorized('msg')]]></content>
+  <tabTrigger>ado-resunauth</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

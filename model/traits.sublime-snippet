@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Unfortunately, Javascript has no way of defining traits/mixins natively.
+ * Lucid models makes it easier for you to add traits to your models and extend them by adding new methods/properties.
+ *
+ * http://adonisjs.com/docs/3.1/lucid#_traits_2
+ */
+static get traits {
+    return ['Name/Space/TraitName']
+}]]></content>
+  <tabTrigger>ado-mTrait</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

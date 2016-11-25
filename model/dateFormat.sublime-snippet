@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Date format specifies the format of date in which timestamps should be saved.
+ * You can define any valid date format supported by 'momentjs'.
+ */
+static get dateFormat () {
+    return 'YYYY-MM-DD HH:mm:ss';
+}]]></content>
+  <tabTrigger>ado-mdateFormat</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

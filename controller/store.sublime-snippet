@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Store a newly created resource in storage.
+ */
+* store(request, response) {
+    $0
+}
+]]></content>
+  <tabTrigger>ado-cStore</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[sumDistinct('column')]]></content>
+  <tabTrigger>ado-qsumDistinct</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

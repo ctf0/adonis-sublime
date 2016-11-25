@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.guid()]]></content>
+  <tabTrigger>ado-fguid</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

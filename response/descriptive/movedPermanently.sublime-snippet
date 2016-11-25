@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.movedPermanently('msg')]]></content>
+  <tabTrigger>ado-resmovedPermanently</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

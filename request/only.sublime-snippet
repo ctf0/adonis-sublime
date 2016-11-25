@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.only('keyOne', 'keyTwo')]]></content>
+  <tabTrigger>ado-reqonly</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

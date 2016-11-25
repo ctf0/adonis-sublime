@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.street()]]></content>
+  <tabTrigger>ado-fstreet</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

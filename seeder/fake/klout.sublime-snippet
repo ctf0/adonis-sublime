@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.klout()]]></content>
+  <tabTrigger>ado-fklout</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

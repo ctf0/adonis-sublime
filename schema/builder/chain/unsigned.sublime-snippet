@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[unsigned()]]></content>
+  <tabTrigger>ado-tunsigned</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

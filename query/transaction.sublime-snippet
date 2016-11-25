@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * you will not have to call 'commit' or 'rollback' manually if any of your queries throws an error,
+ * the transaction will commit. Otherwise, it will rollback.
+ */
+const trx = yield Database.transaction(function * (trx) {
+  yield trx.insert({foo: 'bar'}).into('tableName')
+})]]></content>
+  <tabTrigger>ado-qtransaction</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.originalUrl()]]></content>
+  <tabTrigger>ado-reqoriginalUrl</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

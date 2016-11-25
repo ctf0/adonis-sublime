@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.cc_type()]]></content>
+  <tabTrigger>ado-fcc_type</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

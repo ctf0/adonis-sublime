@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.natural()]]></content>
+  <tabTrigger>ado-fnatural</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

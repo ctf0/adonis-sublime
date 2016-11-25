@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[whereNotNull('deleted_at')]]></content>
+  <tabTrigger>ado-qwhereNotNull</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

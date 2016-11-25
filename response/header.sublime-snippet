@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.header('key', 'value')]]></content>
+  <tabTrigger>ado-resheader</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

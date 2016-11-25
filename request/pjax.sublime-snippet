@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.pjax()]]></content>
+  <tabTrigger>ado-reqpjax</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.floating()]]></content>
+  <tabTrigger>ado-ffloating</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

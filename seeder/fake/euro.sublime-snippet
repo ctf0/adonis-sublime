@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.euro()]]></content>
+  <tabTrigger>ado-feuro</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

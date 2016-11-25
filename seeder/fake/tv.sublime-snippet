@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.tv()]]></content>
+  <tabTrigger>ado-ftv</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

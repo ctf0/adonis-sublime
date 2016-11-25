@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.notImplemented('msg')]]></content>
+  <tabTrigger>ado-resnotImplemented</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

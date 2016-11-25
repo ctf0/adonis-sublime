@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+this.create('tableName', (table) => {
+  // ...
+})
+]]></content>
+  <tabTrigger>ado-schemacreate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

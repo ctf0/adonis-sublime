@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[.as('name')]]></content>
+  <tabTrigger>ado-rName</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

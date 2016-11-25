@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[table.timestamp('column')]]></content>
+  <tabTrigger>ado-ttimestamp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

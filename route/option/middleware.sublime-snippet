@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[.middleware('name')]]></content>
+  <tabTrigger>ado-rMiddleware</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

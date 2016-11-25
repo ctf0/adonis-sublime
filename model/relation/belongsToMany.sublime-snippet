@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[return this.belongsToMany('App/Model/Name') ]]></content>
+  <tabTrigger>ado-mbelongsToMany</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

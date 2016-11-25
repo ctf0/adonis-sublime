@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Route.post('/url', function*(req,res){
+    // ...
+})]]></content>
+  <tabTrigger>ado-rPost</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

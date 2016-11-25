@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fake.state()]]></content>
+  <tabTrigger>ado-fstate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

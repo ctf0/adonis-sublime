@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+this.has('tableName').then((exists) => {
+  if (!exists) {
+    // do something
+  }
+})
+]]></content>
+  <tabTrigger>ado-schemahas</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
