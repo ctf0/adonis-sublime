@@ -1,5 +1,0 @@
-<snippet>
-  <content><![CDATA[const Config = use('Config')]]></content>
-  <tabTrigger>ado-facadeConfig</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

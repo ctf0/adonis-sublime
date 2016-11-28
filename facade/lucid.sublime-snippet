@@ -1,5 +1,0 @@
-<snippet>
-  <content><![CDATA[const Lucid = use('Lucid')]]></content>
-  <tabTrigger>ado-facadeLucid</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

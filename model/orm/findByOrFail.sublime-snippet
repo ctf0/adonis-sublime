@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[findByOrFail('key','value')]]></content>
+  <tabTrigger>ado-mfindByOrFail</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

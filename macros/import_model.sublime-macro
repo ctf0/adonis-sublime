@@ -1,0 +1,12 @@
+[
+	{"args": {"to": "scope"},"command": "expand_selection"},
+	{"command": "copy"},
+	{"args":{"to": "bof"},"command": "move_to"},
+	{"args":{"file": "res://Packages/Default/Add Line.sublime-macro"},"command": "run_macro_file"},
+	{"args": {"characters": "const "},"command": "insert"},
+	{"command": "paste"},
+	{"args": {"characters": " = use('App/Model/"},"command": "insert"},
+	{"command": "paste"},
+	{"args": {"characters": "')"},"command": "insert"},
+	{"command": "jump_back"},
+]

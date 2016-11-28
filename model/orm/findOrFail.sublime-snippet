@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[findOrFail(pri_key)]]></content>
+  <tabTrigger>ado-mfindOrFail</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

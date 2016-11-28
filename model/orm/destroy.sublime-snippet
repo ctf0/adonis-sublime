@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[destroy(pri_key)]]></content>
+  <tabTrigger>ado-mdestroy</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

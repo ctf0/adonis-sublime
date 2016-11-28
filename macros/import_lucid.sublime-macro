@@ -1,0 +1,7 @@
+[
+    {"args":{"to": "bof"},"command": "move_to"},
+    {"args":{"file": "res://Packages/Default/Add Line.sublime-macro"},"command": "run_macro_file"},
+    {"args": {"characters": "const Lucid = use('Lucid')"},"command": "insert"},
+    {"command": "jump_back"},
+]
+

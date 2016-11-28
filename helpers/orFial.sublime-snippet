@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * handle 'orFail' methods globally
+ *
+ * use inside "Http.handleError"
+ */
+if (error.name === 'ModelNotFoundException') {
+    response.status(401).send('Resource not found')
+    return
+}
+]]></content>
+  <tabTrigger>ado-orFail</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

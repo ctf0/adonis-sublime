@@ -1,5 +1,0 @@
-<snippet>
-  <content><![CDATA[const View = use('View')]]></content>
-  <tabTrigger>ado-facadeView</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

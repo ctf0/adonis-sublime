@@ -1,5 +1,0 @@
-<snippet>
-  <content><![CDATA[const Database = use('Database')]]></content>
-  <tabTrigger>ado-facadeDatabase</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

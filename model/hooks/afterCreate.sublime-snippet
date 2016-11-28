@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * After a new record has been successfully created.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('afterCreate', 'method')
+]]></content>
+  <tabTrigger>ado-mhookafterCreate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

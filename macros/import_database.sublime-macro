@@ -1,0 +1,6 @@
+[
+	{"args":{"to": "bof"},"command": "move_to"},
+	{"args":{"file": "res://Packages/Default/Add Line.sublime-macro"},"command": "run_macro_file"},
+	{"args": {"characters": "const Database = use('Database')"},"command": "insert"},
+	{"command": "jump_back"},
+]

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * This event is only triggered when you have enabled soft deletes and restoring a previously deleted record.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('beforeRestore', 'method')
+]]></content>
+  <tabTrigger>ado-mhookbeforeRestore</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

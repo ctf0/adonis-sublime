@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+const trx = yield Database.beginTransaction()
+
+const inst = new Model()
+inst.foo = 'bar'
+inst.useTransaction(trx)
+yield inst.save()
+
+trx.commit() // commit/save data
+trx.rollback() // undo inserted data
+]]></content>
+  <tabTrigger>ado-mbeginTransaction</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

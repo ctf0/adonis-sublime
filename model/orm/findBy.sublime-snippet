@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[findBy('foo', 'bar')]]></content>
+  <tabTrigger>ado-mfindBy</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

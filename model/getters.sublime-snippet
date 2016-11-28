@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * a getter for the 'title' attribute will be defined as 'getTitle'
+ * to run asynchronous code use 'hooks' for that
+ * getters will receive the current value of a given field.
+ */
+get${1:Attr} (${2:attr}) {
+    return ${2:attr}
+}]]></content>
+  <tabTrigger>ado-mgetter</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

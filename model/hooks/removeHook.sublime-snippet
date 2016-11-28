@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * remove named hook,
+ * this is the same name you gave to your hook method within 'addHook()'
+ */
+const Model = use(App/Model/Name)
+Model.removeHook('name')
+]]></content>
+  <tabTrigger>ado-mremoveHook</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

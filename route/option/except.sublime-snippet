@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[.except('actions')]]></content>
+  <content><![CDATA[except('actions')]]></content>
   <tabTrigger>ado-rExcept</tabTrigger>
   <scope>source.js</scope>
 </snippet>

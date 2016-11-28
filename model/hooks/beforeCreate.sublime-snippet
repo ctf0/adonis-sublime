@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Before a new record gets created.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('beforeCreate', 'method')
+]]></content>
+  <tabTrigger>ado-mhookbeforeCreate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

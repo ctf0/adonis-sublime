@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+const inst = yield ModelName.findOrCreate(
+  { where },
+  { new }
+)]]></content>
+  <tabTrigger>ado-mfindOrCreate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

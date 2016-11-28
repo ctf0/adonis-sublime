@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+inst.fill({foo: 'bar'})
+yield inst.save()
+]]></content>
+  <tabTrigger>ado-mfill</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

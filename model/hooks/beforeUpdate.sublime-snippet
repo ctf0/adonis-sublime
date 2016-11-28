@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Before an existing record gets updated.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('beforeUpdate', 'method')
+]]></content>
+  <tabTrigger>ado-mhookbeforeUpdate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

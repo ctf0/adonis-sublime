@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+/**
+ *  you can dynamically add traits using the use method.
+ */
+this.use('Adonis/Traits/Slugify')
+]]></content>
+  <tabTrigger>ado-ado-mtraitUse</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

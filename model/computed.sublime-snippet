@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Computed properties are like getters, but they are virtual values that do not exist in your database tables.
+ * Computed properties must be returned as an 'array' from the computed getter.
+ * They do not receive any value
+ */
+static get computed () {
+    return ['${1:fullname}']
+}
+
+${2:
+get${1:Fullname} () {
+    return this.${3:attr}
+\}}]]></content>
+  <tabTrigger>ado-mcomputed</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

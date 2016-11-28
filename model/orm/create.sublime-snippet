@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-const var = yield ModelName.create({
-    field: 'data'
+const inst = yield ModelName.create({
+    foo: 'bar'
 })]]></content>
-  <tabTrigger>ado-mCreate</tabTrigger>
+  <tabTrigger>ado-mcreate</tabTrigger>
   <scope>source.js</scope>
 </snippet>

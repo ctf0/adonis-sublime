@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * After a record has been deleted successfully.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('afterDelete', 'method')
+]]></content>
+  <tabTrigger>ado-mhookafterDelete</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

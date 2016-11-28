@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[pick(1)]]></content>
+  <tabTrigger>ado-mpick</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

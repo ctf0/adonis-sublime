@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * After a soft deleted record has been restored.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('afterRestore', 'method')
+]]></content>
+  <tabTrigger>ado-mhookafterRestore</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

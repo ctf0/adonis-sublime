@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Before you are about to a delete a given record.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('beforeDelete', 'method')
+]]></content>
+  <tabTrigger>ado-mhookbeforeDelete</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

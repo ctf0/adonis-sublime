@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * a setter for the 'title' attribute will be defined as 'setTitle'
+ * to run asynchronous code use 'hooks' for that
+ * setters will receive the current value of a given field.
+ * code is executed only when you 'set/update' value of a given field on the model instance.
+ */
+set${1:Attr} (${2:attr}) {
+    return ${2:attr}
+}]]></content>
+  <tabTrigger>ado-msetters</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

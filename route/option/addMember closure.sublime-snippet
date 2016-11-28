@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+addMember('routeName', [verbs], (member) => {
+    // member.bindAction('popularAuthors').middleware('auth').as('postsMember')
+})]]></content>
+  <tabTrigger>ado-rAddMemberClosure</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

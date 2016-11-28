@@ -1,0 +1,83 @@
+[
+    {
+        "caption": "Adonis import Model",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_model.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Command",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_command.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Config",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_config.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Database",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_database.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Env",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_env.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Event",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_event.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Factory",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_factory.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Hash",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_hash.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Helpers",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_helpers.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Lucid",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_lucid.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Middleware",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_middleware.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Request",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_request.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Response",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_response.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Route",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_route.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Schema",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_schema.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import View",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/macros/import_view.sublime-macro"}
+    },
+
+]

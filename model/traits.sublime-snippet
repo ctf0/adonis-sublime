@@ -9,6 +9,6 @@
 static get traits {
     return ['Name/Space/TraitName']
 }]]></content>
-  <tabTrigger>ado-mTrait</tabTrigger>
+  <tabTrigger>ado-mtrait</tabTrigger>
   <scope>source.js</scope>
 </snippet>

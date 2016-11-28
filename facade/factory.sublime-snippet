@@ -1,5 +1,0 @@
-<snippet>
-  <content><![CDATA[const Factory = use('Factory')]]></content>
-  <tabTrigger>ado-facadeFactory</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

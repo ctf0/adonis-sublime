@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[pickInverse(1)]]></content>
+  <tabTrigger>ado-mpickInverse</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

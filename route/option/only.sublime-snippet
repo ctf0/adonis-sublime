@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[.only('actions')]]></content>
+  <content><![CDATA[only('actions')]]></content>
   <tabTrigger>ado-rOnly</tabTrigger>
   <scope>source.js</scope>
 </snippet>

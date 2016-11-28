@@ -1,5 +1,0 @@
-<snippet>
-  <content><![CDATA[const Route = use('Route')]]></content>
-  <tabTrigger>ado-facadeRoute</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

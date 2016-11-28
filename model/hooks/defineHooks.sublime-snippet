@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * same as 'addHook', except you can define multiple hooks at once.
+ */
+this.defineHooks('event', ['hookOne','hookTwo'])
+]]></content>
+  <tabTrigger>ado-mdefineHooks</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

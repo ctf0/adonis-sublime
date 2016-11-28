@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * After an existing record has been updated.
+ *
+ * this.addHook('event', 'name', 'method')
+ */
+this.addHook('afterUpdate', 'method')
+]]></content>
+  <tabTrigger>ado-mhookafterUpdate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

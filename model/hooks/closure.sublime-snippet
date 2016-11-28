@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * this.addHook('event', 'name', 'method/closure')
+ */
+this.addHook('event', funciton*(next){
+    // {this} belongs to model instance
+
+    yield next
+})
+]]></content>
+  <tabTrigger>ado-maddHookClosure</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

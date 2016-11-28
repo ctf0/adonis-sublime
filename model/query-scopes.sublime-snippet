@@ -4,6 +4,8 @@
  * Query scopes are fluent methods defined on your models as static methods and can be used within the query builder chain.
  * Think of them as descriptive convenient methods for extending the query builder.
  *
+ * model.query().active().fetch()
+ *
  * http://adonisjs.com/docs/3.1/lucid#_query_scopes
  */
 static scopeActive (builder) {

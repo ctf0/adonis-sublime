@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[query().where('foo', 'bar').fetch()]]></content>
+  <tabTrigger>ado-mwhere</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

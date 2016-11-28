@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+const inst = yield ModelName.createMany([
+{foo: 'bar'},
+{foo: 'bar'},
+])]]></content>
+  <tabTrigger>ado-mcreateMany</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

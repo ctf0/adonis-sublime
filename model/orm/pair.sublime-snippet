@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[pair('foo', 'bar')]]></content>
+  <tabTrigger>ado-mpair</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
