@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| length]]></content>
+  <tabTrigger>ado-length</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield this.anticipate('question', [{key: 'f', name: 'foo'}], [defaultChoice]).print()]]></content>
+  <tabTrigger>ado-aanticipate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

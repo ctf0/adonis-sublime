@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{% set ${1:User} = ${2:} %}]]></content>
+  <tabTrigger>ado-set</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

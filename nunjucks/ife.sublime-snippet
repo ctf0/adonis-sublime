@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+{% if ${1:} %}
+  //...
+{% elif tired %}
+  //...
+{% else %}
+  //...
+{% endif %}
+]]></content>
+  <tabTrigger>ado-ifelse</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

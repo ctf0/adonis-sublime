@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+yield this
+    .ask('question')
+    .validate(function (input) {
+        return input === 'something' ? true : 'something else'
+    })
+    .print()
+]]></content>
+  <tabTrigger>ado-avalidate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

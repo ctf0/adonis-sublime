@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% if ${1:} %}
+  // ...
+{% endif %}
+]]></content>
+  <tabTrigger>ado-if</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

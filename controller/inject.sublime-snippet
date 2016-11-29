@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * inject returns an array of namespaces to be injected to the constructor.
+ * They are passed in the order they are defined.
+ */
+static get inject () {
+    return ['App/Model/Name']
+}
+]]></content>
+  <tabTrigger>ado-cinject</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

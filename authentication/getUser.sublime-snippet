@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.getUser()]]></content>
+  <tabTrigger>ado-reqauthgetUser</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

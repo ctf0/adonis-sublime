@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.revokeExcept(user, [tokens])]]></content>
+  <tabTrigger>ado-reqauthrevokeExcept</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

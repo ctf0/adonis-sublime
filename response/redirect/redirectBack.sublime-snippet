@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.redirect('back')]]></content>
+  <tabTrigger>ado-resredirectBack</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

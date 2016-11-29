@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% block ${1:content} %}
+    $0
+{% endblock %}
+]]></content>
+  <tabTrigger>ado-block</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

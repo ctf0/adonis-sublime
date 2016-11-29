@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.warn('$0')]]></content>
+  <tabTrigger>ado-awarn</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ form.resetButton('${1:Register}') }}]]></content>
+  <tabTrigger>ado-formresetButton</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

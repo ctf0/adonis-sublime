@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% raw %}
+    $0
+{% endraw %}
+]]></content>
+  <tabTrigger>ado-raw</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield this.choice('question', [choices], 'default').print()]]></content>
+  <tabTrigger>ado-achoice</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

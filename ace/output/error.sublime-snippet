@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.error('$0')]]></content>
+  <tabTrigger>ado-aerror</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

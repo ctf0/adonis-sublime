@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| safe]]></content>
+  <tabTrigger>ado-safe</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

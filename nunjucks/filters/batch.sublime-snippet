@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| batch({$0})]]></content>
+  <tabTrigger>ado-batch</tabTrigger>
+  <scope>meta.tag.template.block.twig</scope>
+</snippet>

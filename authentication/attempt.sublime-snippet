@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.attempt(uid, password)]]></content>
+  <tabTrigger>ado-reqauthattempt</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

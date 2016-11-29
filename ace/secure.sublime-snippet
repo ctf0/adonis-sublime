@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield this.secure('question', 'defaultValue').print()]]></content>
+  <tabTrigger>ado-asecure</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

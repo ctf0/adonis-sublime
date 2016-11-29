@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{ form.label('${1:username}', '${2:Text}') }}
+{{ form.selectRange('${1:username}', 1, 30) }}
+]]></content>
+  <tabTrigger>ado-formselectRange</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

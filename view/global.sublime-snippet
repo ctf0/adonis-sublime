@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Views globals are available to all the templates
+ *
+ * use inside "app/Listeners/Http.js > Http.onStart"
+ *
+ * call it by {{ ${1:name}() }}
+ */
+View.global('${1:name}', function () {
+    // return
+})
+]]></content>
+  <tabTrigger>ado-vglobal</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

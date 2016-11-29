@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ caller() }}]]></content>
+  <tabTrigger>ado-caller</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

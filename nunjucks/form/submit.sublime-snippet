@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ form.submit('${1:Register}') }}]]></content>
+  <tabTrigger>ado-formsubmit</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% filter ${1:} %}
+    $0
+{% endfilter %}
+]]></content>
+  <tabTrigger>ado-filter</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| first]]></content>
+  <tabTrigger>ado-first</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

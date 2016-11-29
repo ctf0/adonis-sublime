@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[paginate(request.input('page'), 1)]]></content>
+  <content><![CDATA[paginate(request.input('page', 1), 2)]]></content>
   <tabTrigger>ado-mpaginate</tabTrigger>
   <scope>source.js</scope>
 </snippet>

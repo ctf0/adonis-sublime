@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const successIcon = this.icon('info')]]></content>
+  <tabTrigger>ado-ainfoIcon</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

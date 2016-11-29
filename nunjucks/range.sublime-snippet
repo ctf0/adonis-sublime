@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% for i in range(0,5) -%}
+    {{ i }}
+{%- endfor %}
+]]></content>
+  <tabTrigger>ado-range</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

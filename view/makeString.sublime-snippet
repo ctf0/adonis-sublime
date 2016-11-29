@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[makeString('{{ foo }}', {foo: 'bar'})]]></content>
+  <tabTrigger>ado-vmakeString</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

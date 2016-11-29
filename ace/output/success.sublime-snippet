@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.success('$0')]]></content>
+  <tabTrigger>ado-asuccess</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

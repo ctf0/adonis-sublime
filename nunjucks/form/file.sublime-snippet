@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ form.file('${1:avatar}') }}]]></content>
+  <tabTrigger>ado-formfile</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

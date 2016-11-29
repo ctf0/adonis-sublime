@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.validate(uid, password)]]></content>
+  <tabTrigger>ado-reqauthvalidate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

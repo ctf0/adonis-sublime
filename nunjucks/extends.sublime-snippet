@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{% extends '${1:master}' %}]]></content>
+  <tabTrigger>ado-extends</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

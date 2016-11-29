@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Views globals are available to all the templates
+ *
+ * use inside "app/Listeners/Http.js > Http.onStart"
+ *
+ * call it by {{ ${2:} | ${1:name}(${3:}) }}
+ */
+View.filter('${1:name}', function (${2:}, ${3:}) {
+    // return $0
+})
+]]></content>
+  <tabTrigger>ado-vfilter</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

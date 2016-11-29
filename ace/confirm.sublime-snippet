@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield this.confirm('question', 'defaultValue').print()]]></content>
+  <tabTrigger>ado-aconfirm</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

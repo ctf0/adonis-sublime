@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| striptags]]></content>
+  <tabTrigger>ado-striptags</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

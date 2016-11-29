@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% macro ${1:button}(${2:}) %}
+  $0
+{% endmacro %}
+]]></content>
+  <tabTrigger>ado-macro</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| age]]></content>
+  <tabTrigger>ado-age</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

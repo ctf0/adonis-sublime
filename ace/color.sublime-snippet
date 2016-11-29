@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.colors.$0]]></content>
+  <tabTrigger>ado-acolor</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

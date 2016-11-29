@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| last]]></content>
+  <tabTrigger>ado-last</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

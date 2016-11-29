@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+{{ form.label('${1:countries}', '${2:}') }}
+{{ form.select(
+    '${1:countries}',
+    ['India', 'US', 'UK'],
+    null,
+    'Select Country',
+    {multiple: true})
+}}
+]]></content>
+  <tabTrigger>ado-formselect</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

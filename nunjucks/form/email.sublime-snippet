@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{ form.label('${1:username}', '${2:Text}') }}
+{{ form.email('${1:username}', value, {class:'foo'}) }}
+]]></content>
+  <tabTrigger>ado-formemail</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

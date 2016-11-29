@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| capitalize]]></content>
+  <tabTrigger>ado-capitalize</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

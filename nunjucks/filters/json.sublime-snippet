@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| json]]></content>
+  <tabTrigger>ado-json</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

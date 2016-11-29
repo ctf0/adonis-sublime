@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{% from '${1:view}' import ${2:macroName} %}
+{{ ${2:macroName}($0) }}
+]]></content>
+  <tabTrigger>ado-import</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

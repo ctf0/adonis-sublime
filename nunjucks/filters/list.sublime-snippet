@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| list]]></content>
+  <tabTrigger>ado-list</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.authenticator('api')]]></content>
+  <tabTrigger>ado-reqauthauthenticator</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

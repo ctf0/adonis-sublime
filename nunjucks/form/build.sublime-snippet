@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{{ form.open({${1:action}: '${2:UserController.store}'}) }}
+    $0
+{{ form.close() }}
+]]></content>
+  <tabTrigger>ado-form</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

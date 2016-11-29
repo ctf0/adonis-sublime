@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.check()]]></content>
+  <tabTrigger>ado-reqauthcheck</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

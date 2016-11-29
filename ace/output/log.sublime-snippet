@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.log('$0')]]></content>
+  <tabTrigger>ado-alog</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

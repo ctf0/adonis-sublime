@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[{{ linkTo('link/name', 'text', {data}, '_blank') }}]]></content>
   <tabTrigger>ado-linkTo</tabTrigger>
-  <scope>text.html.nunjucks</scope>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
 </snippet>

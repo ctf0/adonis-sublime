@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ 'controller.action' | action({$0}) }}]]></content>
+  <tabTrigger>ado-action</tabTrigger>
+  <scope>meta.tag.block.any.html</scope>
+</snippet>

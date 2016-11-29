@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% for ${1:} in ${1:}s %}
+    $0
+{% endfor %}
+]]></content>
+  <tabTrigger>ado-for</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

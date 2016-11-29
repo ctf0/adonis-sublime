@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{% include ${1:'view'} %}]]></content>
+  <tabTrigger>ado-include</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

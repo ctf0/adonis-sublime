@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| trim]]></content>
+  <tabTrigger>ado-trim</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

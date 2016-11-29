@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.run('ace cmnd', 'arg', {template: path})]]></content>
+  <tabTrigger>ado-arun</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

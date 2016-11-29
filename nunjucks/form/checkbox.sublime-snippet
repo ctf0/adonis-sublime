@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{ form.label('${1:username}', '${2:Text}') }}
+{{ form.checkbox('${1:username}', value, true) }}
+]]></content>
+  <tabTrigger>ado-formcheckbox</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

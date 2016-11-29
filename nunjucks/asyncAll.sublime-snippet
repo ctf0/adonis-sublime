@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% asyncAll ${1:user} in ${1:user}s %}
+    $0
+{% endall %}
+]]></content>
+  <tabTrigger>ado-asyncAll</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

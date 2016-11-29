@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+this.table(
+    ['key', 'value'],
+    {
+        foo: bar
+    }
+)]]></content>
+  <tabTrigger>ado-atable</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

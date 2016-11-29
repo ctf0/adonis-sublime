@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{ form.label('${1:username}', '${2:Text}') }}
+{{ form.hidden('${1:username}') }}
+]]></content>
+  <tabTrigger>ado-formhidden</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

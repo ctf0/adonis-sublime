@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ linkToAction('controller.action', 'text', {data}, '_blank') }}]]></content>
+  <tabTrigger>ado-linkToAction</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

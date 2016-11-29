@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Class constructor will receive the injections as parameters.
+ */
+constructor (${1:User}) {
+    this.${1:User} = ${1:User}
+}
+]]></content>
+  <tabTrigger>ado-cconstructor</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

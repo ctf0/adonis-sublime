@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.logout()]]></content>
+  <tabTrigger>ado-reqauthlogout</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

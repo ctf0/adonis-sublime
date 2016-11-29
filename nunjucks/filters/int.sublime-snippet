@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| int]]></content>
+  <tabTrigger>ado-int</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

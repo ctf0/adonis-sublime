@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield this.ask('$1', 'default').print()]]></content>
+  <tabTrigger>ado-aask</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

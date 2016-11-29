@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.completed('action', 'message')]]></content>
+  <tabTrigger>ado-acompleted</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

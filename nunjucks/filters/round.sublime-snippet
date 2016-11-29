@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[| round]]></content>
+  <tabTrigger>ado-round</tabTrigger>
+  <scope>meta.tag.template.value.twig</scope>
+</snippet>

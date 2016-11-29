@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield this.multiple('question', [choices], [defaultChoice]).print()]]></content>
+  <tabTrigger>ado-amultiple</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

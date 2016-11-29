@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[this.failed('action', 'message')]]></content>
+  <tabTrigger>ado-afailed</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

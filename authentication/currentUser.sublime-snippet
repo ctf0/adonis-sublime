@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.currentUser]]></content>
+  <tabTrigger>ado-reqcurrentUser</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

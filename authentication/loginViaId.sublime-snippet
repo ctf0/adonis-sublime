@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.loginViaId(pri_key)]]></content>
+  <tabTrigger>ado-reqauthloginViaId</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
