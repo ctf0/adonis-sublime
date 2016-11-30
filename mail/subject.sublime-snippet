@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.subject('text')]]></content>
+  <tabTrigger>ado-msubject</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

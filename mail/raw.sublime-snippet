@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+raw('text', (message) => {
+  message.from('email')
+  message.to('email', 'name')
+})
+]]></content>
+  <tabTrigger>ado-mraw</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

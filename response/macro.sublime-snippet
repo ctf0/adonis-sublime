@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Response.macro('name', function (argument) {
+    // this.status(argument).send(argument)
+})]]></content>
+  <tabTrigger>ado-resmacro</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

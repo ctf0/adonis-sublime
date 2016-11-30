@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| float]]></content>
-  <tabTrigger>ado-float</tabTrigger>
+  <tabTrigger>ado-fltr_float</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

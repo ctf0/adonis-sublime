@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| json]]></content>
-  <tabTrigger>ado-json</tabTrigger>
+  <tabTrigger>ado-fltr_json</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

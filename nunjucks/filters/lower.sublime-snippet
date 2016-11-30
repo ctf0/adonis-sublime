@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| lower]]></content>
-  <tabTrigger>ado-lower</tabTrigger>
+  <tabTrigger>ado-fltr_lower</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

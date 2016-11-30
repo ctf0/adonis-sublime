@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| reverse]]></content>
-  <tabTrigger>ado-reverse</tabTrigger>
+  <tabTrigger>ado-fltr_reverse</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

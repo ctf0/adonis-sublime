@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.session.forget('key')]]></content>
+  <tabTrigger>ado-reqsessionforget</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

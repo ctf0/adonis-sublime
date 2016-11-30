@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[{{ 'routeName' | route({$0}) }}]]></content>
-  <tabTrigger>ado-route</tabTrigger>
+  <tabTrigger>ado-fltr_route</tabTrigger>
   <scope>meta.tag.block.any.html</scope>
 </snippet>

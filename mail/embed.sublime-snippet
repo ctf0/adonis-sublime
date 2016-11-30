@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.embed('path', 'unique_name')]]></content>
+  <tabTrigger>ado-membed</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

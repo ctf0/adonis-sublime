@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.with({foo: 'bar'}).flash()]]></content>
+  <tabTrigger>ado-reqsessionwith</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

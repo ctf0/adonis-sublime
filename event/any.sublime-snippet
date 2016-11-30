@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+any(function (event) {
+    // console.log(event)
+})]]></content>
+  <tabTrigger>ado-eany</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

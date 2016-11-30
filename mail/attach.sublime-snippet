@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+message.attach('path',{
+    // filename: 'name',
+    // contentType: 'type',
+    // contentDisposition: 'dis',
+    // encoding: 'base64/hex/binary'
+})
+]]></content>
+  <tabTrigger>ado-mattach</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

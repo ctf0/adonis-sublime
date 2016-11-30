@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Request.macro('name', function (argument) {
+    // return this.cookie('cartValue', 0)
+})
+]]></content>
+  <tabTrigger>ado-reqmacro</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

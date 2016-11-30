@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.session.all()]]></content>
+  <tabTrigger>ado-reqsessionall</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

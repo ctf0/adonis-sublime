@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.cc('email', 'name')]]></content>
+  <tabTrigger>ado-mcc</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

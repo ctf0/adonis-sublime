@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const validation = yield Validator.validateAll(data, rules, messages)]]></content>
+  <tabTrigger>ado-vvalidateAll</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

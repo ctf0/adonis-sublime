@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| last]]></content>
-  <tabTrigger>ado-last</tabTrigger>
+  <tabTrigger>ado-fltr_last</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

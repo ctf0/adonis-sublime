@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+.times(4).when('event', function * () {
+    // I will be executed 4 times only
+})]]></content>
+  <tabTrigger>ado-etimes</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

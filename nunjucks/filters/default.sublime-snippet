@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| default($0)]]></content>
-  <tabTrigger>ado-default</tabTrigger>
+  <tabTrigger>ado-fltr_default</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

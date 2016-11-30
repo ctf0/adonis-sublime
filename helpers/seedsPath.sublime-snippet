@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Helpers.seedsPath()]]></content>
+  <tabTrigger>ado-hseedsPath</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

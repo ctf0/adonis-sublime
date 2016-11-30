@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+message.headers([
+    {key: 'foo', value: 'bar'},
+])]]></content>
+  <tabTrigger>ado-mheaders</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

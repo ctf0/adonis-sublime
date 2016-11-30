@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[hasListeners('event')]]></content>
+  <tabTrigger>ado-ehasListeners</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

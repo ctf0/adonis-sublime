@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.withOut('keys').flash()]]></content>
+  <tabTrigger>ado-reqsessionwithOut</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

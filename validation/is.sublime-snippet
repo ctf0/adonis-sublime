@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+if (Validator.is.email('foo')){
+    // do somthing
+}
+]]></content>
+  <tabTrigger>ado-vis</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

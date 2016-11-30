@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Validator.sanitizor.ruleName]]></content>
+  <tabTrigger>ado-vsanitizor</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

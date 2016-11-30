@@ -1,0 +1,249 @@
+{
+    // Validation Rules
+    "scope": "meta.object-literal.js string.quoted.single.js",
+    "completions":
+    [
+        {
+            "trigger": "above\tAdo_Valid_Rules",
+            "contents": "above:$0"
+        },
+        {
+            "trigger": "acc\tAdo_Valid_Rules",
+            "contents": "accepted"
+        },
+        {
+            "trigger": "aftd\tAdo_Valid_Rules",
+            "contents": "after:date"
+        },
+        {
+            "trigger": "aftoff\tAdo_Valid_Rules",
+            "contents": "after_offset_of:12,months"
+        },
+        {
+            "trigger": "alp\tAdo_Valid_Rules",
+            "contents": "alpha"
+        },
+        {
+            "trigger": "alpn\tAdo_Valid_Rules",
+            "contents": "alpha_numeric"
+        },
+        {
+            "trigger": "arr\tAdo_Valid_Rules",
+            "contents": "array"
+        },
+        {
+            "trigger": "befd\tAdo_Valid_Rules",
+            "contents": "before:date"
+        },
+        {
+            "trigger": "befoff\tAdo_Valid_Rules",
+            "contents": "before_offset_of:1,year"
+        },
+        {
+            "trigger": "bool\tAdo_Valid_Rules",
+            "contents": "boolean"
+        },
+        {
+            "trigger": "date\tAdo_Valid_Rules",
+            "contents": "date"
+        },
+        {
+            "trigger": "dtf\tAdo_Valid_Rules",
+            "contents": "date_format:YYYY-MM-DD"
+        },
+        {
+            "trigger": "diff\tAdo_Valid_Rules",
+            "contents": "different:input_name"
+        },
+        {
+            "trigger": "email\tAdo_Valid_Rules",
+            "contents": "email"
+        },
+        {
+            "trigger": "endwth\tAdo_Valid_Rules",
+            "contents": "ends_with:foo"
+        },
+        {
+            "trigger": "equal\tAdo_Valid_Rules",
+            "contents": "equals:$0"
+        },
+        {
+            "trigger": "in\tAdo_Valid_Rules",
+            "contents": "in:foo,bar,..."
+        },
+        {
+            "trigger": "inc\tAdo_Valid_Rules",
+            "contents": "includes:$0"
+        },
+        {
+            "trigger": "int\tAdo_Valid_Rules",
+            "contents": "integer"
+        },
+        {
+            "trigger": "ip\tAdo_Valid_Rules",
+            "contents": "ip"
+        },
+        {
+            "trigger": "ipv4\tAdo_Valid_Rules",
+            "contents": "ipv4"
+        },
+        {
+            "trigger": "ipv6\tAdo_Valid_Rules",
+            "contents": "ipv6"
+        },
+        {
+            "trigger": "json\tAdo_Valid_Rules",
+            "contents": "json"
+        },
+        {
+            "trigger": "max\tAdo_Valid_Rules",
+            "contents": "max:value"
+        },
+        {
+            "trigger": "min\tAdo_Valid_Rules",
+            "contents": "min:value"
+        },
+        {
+            "trigger": "noteq\tAdo_Valid_Rules",
+            "contents": "not_equals:foo"
+        },
+        {
+            "trigger": "notin\tAdo_Valid_Rules",
+            "contents": "not_in:foo,bar,..."
+        },
+        {
+            "trigger": "obj\tAdo_Valid_Rules",
+            "contents": "object"
+        },
+        {
+            "trigger": "range\tAdo_Valid_Rules",
+            "contents": "range:6,20"
+        },
+        {
+            "trigger": "btwn\tAdo_Valid_Rules",
+            "contents": "between:6,20"
+        },
+        {
+            "trigger": "reg\tAdo_Valid_Rules",
+            "contents": "regex:pattern"
+        },
+        {
+            "trigger": "req\tAdo_Valid_Rules",
+            "contents": "required"
+        },
+        {
+            "trigger": "reqif\tAdo_Valid_Rules",
+            "contents": "required_if:input_name"
+        },
+        {
+            "trigger": "reqwhen\tAdo_Valid_Rules",
+            "contents": "required_when:input_name,value"
+        },
+        {
+            "trigger": "reqwiall\tAdo_Valid_Rules",
+            "contents": "required_with_all:foo,bar,..."
+        },
+        {
+            "trigger": "reqwiany\tAdo_Valid_Rules",
+            "contents": "required_with_any:foo,bar,..."
+        },
+        {
+            "trigger": "reqwioutall\tAdo_Valid_Rules",
+            "contents": "required_without_all:foo,bar,..."
+        },
+        {
+            "trigger": "reqwioutany\tAdo_Valid_Rules",
+            "contents": "required_without_any:foo,bar,..."
+        },
+        {
+            "trigger": "same\tAdo_Valid_Rules",
+            "contents": "same:input_name"
+        },
+        {
+            "trigger": "startwth\tAdo_Valid_Rules",
+            "contents": "starts_with:foo"
+        },
+        {
+            "trigger": "string\tAdo_Valid_Rules",
+            "contents": "string"
+        },
+        {
+            "trigger": "under\tAdo_Valid_Rules",
+            "contents": "under:$0"
+        },
+        {
+            "trigger": "url\tAdo_Valid_Rules",
+            "contents": "url"
+        },
+        {
+            "trigger": "uni\tAdo_Valid_Rules",
+            "contents": "unique:table,column,except,id"
+        },
+
+        // Sanitization_Rules
+        {
+            "trigger": "normemail\tAdo_Sanitization_Rules",
+            "contents": "normalize_email"
+        },
+        {
+            "trigger": "esc\tAdo_Sanitization_Rules",
+            "contents": "escape"
+        },
+        {
+            "trigger": "blklist\tAdo_Sanitization_Rules",
+            "contents": "blacklist:foo,bar,..."
+        },
+        {
+            "trigger": "tobool\tAdo_Sanitization_Rules",
+            "contents": "to_boolean"
+        },
+        {
+            "trigger": "tofloat\tAdo_Sanitization_Rules",
+            "contents": "to_float"
+        },
+        {
+            "trigger": "toint\tAdo_Sanitization_Rules",
+            "contents": "to_int"
+        },
+        {
+            "trigger": "todate\tAdo_Sanitization_Rules",
+            "contents": "to_date"
+        },
+        {
+            "trigger": "strplnks\tAdo_Sanitization_Rules",
+            "contents": "strip_links"
+        },
+        {
+            "trigger": "strptgs\tAdo_Sanitization_Rules",
+            "contents": "strip_tags"
+        },
+        {
+            "trigger": "plur\tAdo_Sanitization_Rules",
+            "contents": "plural"
+        },
+        {
+            "trigger": "sing\tAdo_Sanitization_Rules",
+            "contents": "singular"
+        },
+        {
+            "trigger": "camel\tAdo_Sanitization_Rules",
+            "contents": "camel_case"
+        },
+        {
+            "trigger": "capi\tAdo_Sanitization_Rules",
+            "contents": "capitalize"
+        },
+        {
+            "trigger": "decapi\tAdo_Sanitization_Rules",
+            "contents": "decapitalize"
+        },
+        {
+            "trigger": "title\tAdo_Sanitization_Rules",
+            "contents": "title"
+        },
+        {
+            "trigger": "slug\tAdo_Sanitization_Rules",
+            "contents": "slug"
+        }
+    ]
+}

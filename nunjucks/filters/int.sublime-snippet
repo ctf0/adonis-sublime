@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| int]]></content>
-  <tabTrigger>ado-int</tabTrigger>
+  <tabTrigger>ado-fltr_int</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

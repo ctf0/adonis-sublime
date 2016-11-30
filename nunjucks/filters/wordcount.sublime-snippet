@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| wordcount]]></content>
-  <tabTrigger>ado-wordcount</tabTrigger>
+  <tabTrigger>ado-fltr_wordcount</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

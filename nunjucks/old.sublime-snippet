@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ old('key') }}]]></content>
+  <tabTrigger>ado-old</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

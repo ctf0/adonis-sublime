@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[validation.messages()]]></content>
+  <tabTrigger>ado-vmessages</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[driver('name')]]></content>
+  <tabTrigger>ado-mdriver</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

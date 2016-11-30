@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[response.clearCookie('key')]]></content>
+  <tabTrigger>ado-resclearCookie</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

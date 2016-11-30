@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.from('email', 'name')]]></content>
+  <tabTrigger>ado-mfrom</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

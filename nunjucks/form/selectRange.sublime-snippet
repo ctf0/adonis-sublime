@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-{{ form.label('${1:username}', '${2:Text}') }}
+{{ form.label('${1:username}', '${2:Text}', {class: 'label-class'}) }}
 {{ form.selectRange('${1:username}', 1, 30) }}
 ]]></content>
   <tabTrigger>ado-formselectRange</tabTrigger>

@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| rejectattr('$0') | json]]></content>
-  <tabTrigger>ado-rejectattr</tabTrigger>
+  <tabTrigger>ado-fltr_rejectattr</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

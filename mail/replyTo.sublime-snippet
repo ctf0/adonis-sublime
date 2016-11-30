@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.replyTo('email', 'name')]]></content>
+  <tabTrigger>ado-mreplyTo</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

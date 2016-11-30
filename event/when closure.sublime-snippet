@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+when('event',function * () {
+  // ...
+})]]></content>
+  <tabTrigger>ado-ewhenclosure</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

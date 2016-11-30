@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Helpers.publicPath()]]></content>
+  <tabTrigger>ado-hpublicPath</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

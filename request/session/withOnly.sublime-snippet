@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.withOnly('keys').flash()]]></content>
+  <tabTrigger>ado-reqsessionwithOnly</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

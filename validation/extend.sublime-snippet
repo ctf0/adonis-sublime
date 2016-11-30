@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * Extending Validator
+ *
+ * added under 'app/Listeners/Http.js > Http.onStart'
+ */
+Validator.extend('ruleName', (data, field, message, args, get) => {
+    return new Promise((resolve, reject) => {
+      const fieldValue = get(data, field)
+      if (fieldValue == something) {
+        resolve('Allowed')
+        return
+      }
+      reject(message)
+    })
+}, 'failed_message')
+]]></content>
+  <tabTrigger>ado-vextend</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

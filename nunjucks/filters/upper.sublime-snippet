@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| upper]]></content>
-  <tabTrigger>ado-upper</tabTrigger>
+  <tabTrigger>ado-fltr_upper</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

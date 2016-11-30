@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Helpers.appPath()]]></content>
+  <tabTrigger>ado-happPath</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

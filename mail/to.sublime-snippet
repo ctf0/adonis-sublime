@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.to('email', 'name')]]></content>
+  <tabTrigger>ado-mto</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

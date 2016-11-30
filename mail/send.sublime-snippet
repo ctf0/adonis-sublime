@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+send('view', {data}, (message) => {
+  message.to('email', 'name')
+  message.from('email')
+  message.subject('text')
+})
+]]></content>
+  <tabTrigger>ado-msend</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

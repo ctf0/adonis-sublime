@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.with({error: 'something'}).flash()]]></content>
+  <tabTrigger>ado-reqflash</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

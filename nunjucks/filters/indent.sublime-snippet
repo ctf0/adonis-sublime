@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| indent(2,true)]]></content>
-  <tabTrigger>ado-indent</tabTrigger>
+  <tabTrigger>ado-fltr_indent</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

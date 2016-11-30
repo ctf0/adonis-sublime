@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.bcc('email', 'name')]]></content>
+  <tabTrigger>ado-mbcc</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.watchHtml('body')]]></content>
+  <tabTrigger>ado-mwatchHtml</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

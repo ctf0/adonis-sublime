@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Helpers.databasePath()]]></content>
+  <tabTrigger>ado-hdatabasePath</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

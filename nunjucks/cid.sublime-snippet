@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[cid:name]]></content>
+  <tabTrigger>ado-cid</tabTrigger>
+  <scope>meta.tag.inline.any.html string.quoted.double.html</scope>
+</snippet>

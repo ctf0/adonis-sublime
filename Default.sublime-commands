@@ -79,5 +79,15 @@
         "command": "run_macro_file",
         "args": {"file": "Packages/adonisjs/import/view.sublime-macro"}
     },
+    {
+        "caption": "Adonis import Mail",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/import/mail.sublime-macro"}
+    },
+    {
+        "caption": "Adonis import Validator",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/import/validator.sublime-macro"}
+    },
 
 ]

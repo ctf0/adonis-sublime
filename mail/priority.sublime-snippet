@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.priority('high/low/normal')]]></content>
+  <tabTrigger>ado-mpriority</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

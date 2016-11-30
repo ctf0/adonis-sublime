@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-{{ form.label('${1:username}', '${2:Text}') }}
+{{ form.label('${1:username}', '${2:Text}', {class: 'label-class'}) }}
 {{ form.date('${1:username}', value, {class:'foo'}) }}
 ]]></content>
   <tabTrigger>ado-formdate</tabTrigger>

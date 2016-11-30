@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * data sanitization
+ * http://adonisjs.com/docs/3.1/data-sanitization
+ */
+static get sanitizationRules () {
+    return {
+      // input_name: 'rules'
+    }
+}]]></content>
+  <tabTrigger>ado-msanitization</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

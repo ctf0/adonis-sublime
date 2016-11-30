@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Helpers.resourcesPath()]]></content>
+  <tabTrigger>ado-hresourcesPath</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

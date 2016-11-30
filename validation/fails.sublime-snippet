@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if (validation.fails()) {
+    response.send({errors: validation.messages()})
+    // yield request.withAll().andWith({ errors: validation.messages() }).flash()
+    // response.redirect('back')
+}]]></content>
+  <tabTrigger>ado-vfails</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[const validation = yield Validator.validate(data, rules, messages)]]></content>
+  <tabTrigger>ado-vvalidate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

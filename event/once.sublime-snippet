@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[once('event','listener')]]></content>
+  <tabTrigger>ado-eonce</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.session.get('key', 'default')]]></content>
+  <tabTrigger>ado-reqsessionget</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

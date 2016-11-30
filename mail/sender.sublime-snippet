@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[message.sender('email', 'name')]]></content>
+  <tabTrigger>ado-msender</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

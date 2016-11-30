@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| replace('${1:what}','${2:with}')]]></content>
-  <tabTrigger>ado-replace</tabTrigger>
+  <tabTrigger>ado-fltr_replace</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

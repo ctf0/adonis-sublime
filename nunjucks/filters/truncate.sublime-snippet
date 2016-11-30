@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| truncate(${1:10})]]></content>
-  <tabTrigger>ado-truncate</tabTrigger>
+  <tabTrigger>ado-fltr_truncate</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

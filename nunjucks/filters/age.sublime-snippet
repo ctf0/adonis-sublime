@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| age]]></content>
-  <tabTrigger>ado-age</tabTrigger>
+  <tabTrigger>ado-fltr_age</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

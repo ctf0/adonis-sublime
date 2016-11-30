@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| batch({$0})]]></content>
-  <tabTrigger>ado-batch</tabTrigger>
+  <tabTrigger>ado-fltr_batch</tabTrigger>
   <scope>meta.tag.template.block.twig</scope>
 </snippet>

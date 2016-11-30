@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| title]]></content>
-  <tabTrigger>ado-title</tabTrigger>
+  <tabTrigger>ado-fltr_title</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

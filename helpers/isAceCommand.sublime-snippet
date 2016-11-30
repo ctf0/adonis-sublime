@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Helpers.isAceCommand()]]></content>
+  <tabTrigger>ado-hisAceCommand</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

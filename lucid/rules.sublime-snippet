@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * validation rules
+ * http://adonisjs.com/docs/3.1/validator#_basic_example
+ */
+static get rules () {
+    return {
+      // input_name: 'rules'
+    }
+}]]></content>
+  <tabTrigger>ado-mrules</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.withAll().flash()]]></content>
+  <tabTrigger>ado-reqsessionwithAll</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

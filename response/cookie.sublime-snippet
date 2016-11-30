@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+response.cookie('key', 'value', {
+    // path: 'path',
+    // expires: 'date',
+    // maxAge: 'inSeconds',
+    // domain: 'name',
+    // secure: true,
+    // httpOnly: true,
+    // firstPartyOnly: true
+})
+]]></content>
+  <tabTrigger>ado-rescookie</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

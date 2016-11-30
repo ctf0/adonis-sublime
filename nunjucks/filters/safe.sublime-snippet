@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| safe]]></content>
-  <tabTrigger>ado-safe</tabTrigger>
+  <tabTrigger>ado-fltr_safe</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

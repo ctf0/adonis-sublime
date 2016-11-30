@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[| groupby('$0') | json]]></content>
-  <tabTrigger>ado-groupby</tabTrigger>
+  <tabTrigger>ado-fltr_groupby</tabTrigger>
   <scope>meta.tag.template.value.twig</scope>
 </snippet>

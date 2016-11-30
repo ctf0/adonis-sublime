@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% for key, message in flashMessages %}
+  {{ message }}
+{% endfor %}
+]]></content>
+  <tabTrigger>ado-flashMessages</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>
