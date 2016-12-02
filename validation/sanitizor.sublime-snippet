@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[Validator.sanitizor.ruleName]]></content>
+  <content><![CDATA[Validator.sanitizor.$0]]></content>
   <tabTrigger>ado-vsanitizor</tabTrigger>
   <scope>source.js</scope>
 </snippet>

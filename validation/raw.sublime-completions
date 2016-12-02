@@ -1,0 +1,258 @@
+{
+    "scope": "source.js",
+
+    "completions":
+    [
+        // validation
+        {
+            "trigger": "array\tAdo_Raw_Validations",
+            "contents": "array()"
+        },
+        {
+            "trigger": "boolean\tAdo_Raw_Validations",
+            "contents": "boolean()"
+        },
+        {
+            "trigger": "date\tAdo_Raw_Validations",
+            "contents": "date()"
+        },
+        {
+            "trigger": "function\tAdo_Raw_Validations",
+            "contents": "function(function () {})"
+        },
+        {
+            "trigger": "null\tAdo_Raw_Validations",
+            "contents": "null()"
+        },
+        {
+            "trigger": "number\tAdo_Raw_Validations",
+            "contents": "number()"
+        },
+        {
+            "trigger": "object\tAdo_Raw_Validations",
+            "contents": "object()"
+        },
+        {
+            "trigger": "json\tAdo_Raw_Validations",
+            "contents": "json()"
+        },
+        {
+            "trigger": "string\tAdo_Raw_Validations",
+            "contents": "string()"
+        },
+        {
+            "trigger": "sameType\tAdo_Raw_Validations",
+            "contents": "sameType()"
+        },
+        {
+            "trigger": "existy\tAdo_Raw_Validations",
+            "contents": "existy()"
+        },
+        {
+            "trigger": "truthy\tAdo_Raw_Validations",
+            "contents": "truthy()"
+        },
+        {
+            "trigger": "falsy\tAdo_Raw_Validations",
+            "contents": "falsy()"
+        },
+        {
+            "trigger": "empty\tAdo_Raw_Validations",
+            "contents": "empty()"
+        },
+        {
+            "trigger": "url\tAdo_Raw_Validations",
+            "contents": "url()"
+        },
+        {
+            "trigger": "email\tAdo_Raw_Validations",
+            "contents": "email()"
+        },
+        {
+            "trigger": "phone\tAdo_Raw_Validations",
+            "contents": "phone()"
+        },
+        {
+            "trigger": "creditCard\tAdo_Raw_Validations",
+            "contents": "creditCard()"
+        },
+        {
+            "trigger": "alpha\tAdo_Raw_Validations",
+            "contents": "alpha()"
+        },
+        {
+            "trigger": "alphaNumeric\tAdo_Raw_Validations",
+            "contents": "alphaNumeric()"
+        },
+        {
+            "trigger": "ip\tAdo_Raw_Validations",
+            "contents": "ip()"
+        },
+        {
+            "trigger": "ipv4\tAdo_Raw_Validations",
+            "contents": "ipv4()"
+        },
+        {
+            "trigger": "ipv6\tAdo_Raw_Validations",
+            "contents": "ipv6()"
+        },
+        {
+            "trigger": "regex\tAdo_Raw_Validations",
+            "contents": "regex()"
+        },
+        {
+            "trigger": "same\tAdo_Raw_Validations",
+            "contents": "same()"
+        },
+        {
+            "trigger": "even\tAdo_Raw_Validations",
+            "contents": "even()"
+        },
+        {
+            "trigger": "odd\tAdo_Raw_Validations",
+            "contents": "odd()"
+        },
+        {
+            "trigger": "positive\tAdo_Raw_Validations",
+            "contents": "positive()"
+        },
+        {
+            "trigger": "negative\tAdo_Raw_Validations",
+            "contents": "negative()"
+        },
+        {
+            "trigger": "above\tAdo_Raw_Validations",
+            "contents": "above()"
+        },
+        {
+            "trigger": "under\tAdo_Raw_Validations",
+            "contents": "under()"
+        },
+        {
+            "trigger": "between\tAdo_Raw_Validations",
+            "contents": "between()"
+        },
+        {
+            "trigger": "inArray\tAdo_Raw_Validations",
+            "contents": "inArray()"
+        },
+        {
+            "trigger": "sorted\tAdo_Raw_Validations",
+            "contents": "sorted()"
+        },
+        {
+            "trigger": "intersectAny\tAdo_Raw_Validations",
+            "contents": "intersectAny()"
+        },
+        {
+            "trigger": "intersectAll\tAdo_Raw_Validations",
+            "contents": "intersectAll()"
+        },
+        {
+            "trigger": "today\tAdo_Raw_Validations",
+            "contents": "today()"
+        },
+        {
+            "trigger": "yesterday\tAdo_Raw_Validations",
+            "contents": "yesterday()"
+        },
+        {
+            "trigger": "tomorrow\tAdo_Raw_Validations",
+            "contents": "tomorrow()"
+        },
+        {
+            "trigger": "past\tAdo_Raw_Validations",
+            "contents": "past()"
+        },
+        {
+            "trigger": "future\tAdo_Raw_Validations",
+            "contents": "future()"
+        },
+        {
+            "trigger": "after\tAdo_Raw_Validations",
+            "contents": "after()"
+        },
+        {
+            "trigger": "before\tAdo_Raw_Validations",
+            "contents": "before()"
+        },
+        {
+            "trigger": "dateFormat\tAdo_Raw_Validations",
+            "contents": "dateFormat()"
+        },
+        {
+            "trigger": "inDateRange\tAdo_Raw_Validations",
+            "contents": "inDateRange()"
+        },
+
+        // sanitizor
+        {
+            "trigger": "toInt\tAdo_Raw_Sanitizor",
+            "contents": "toInt()"
+        },
+        {
+            "trigger": "slug\tAdo_Raw_Sanitizor",
+            "contents": "slug()"
+        },
+        {
+            "trigger": "toDate\tAdo_Raw_Sanitizor",
+            "contents": "toDate"
+        },
+        {
+            "trigger": "blacklist\tAdo_Raw_Sanitizor",
+            "contents": "blacklist()"
+        },
+        {
+            "trigger": "escape\tAdo_Raw_Sanitizor",
+            "contents": "escape()"
+        },
+        {
+            "trigger": "normalizeEmail\tAdo_Raw_Sanitizor",
+            "contents": "normalizeEmail('foo@bar.com', ['!rd', '!re', '!lc'])"
+        },
+        {
+            "trigger": "toBoolean\tAdo_Raw_Sanitizor",
+            "contents": "toBoolean()"
+        },
+        {
+            "trigger": "toFloat\tAdo_Raw_Sanitizor",
+            "contents": "toFloat()"
+        },
+        {
+            "trigger": "toDate\tAdo_Raw_Sanitizor",
+            "contents": "toDate()"
+        },
+        {
+            "trigger": "stripLinks\tAdo_Raw_Sanitizor",
+            "contents": "stripLinks()"
+        },
+        {
+            "trigger": "stripTags\tAdo_Raw_Sanitizor",
+            "contents": "stripTags()"
+        },
+        {
+            "trigger": "plural\tAdo_Raw_Sanitizor",
+            "contents": "plural()"
+        },
+        {
+            "trigger": "singular\tAdo_Raw_Sanitizor",
+            "contents": "singular()"
+        },
+        {
+            "trigger": "camelCase\tAdo_Raw_Sanitizor",
+            "contents": "camelCase()"
+        },
+        {
+            "trigger": "capitalize\tAdo_Raw_Sanitizor",
+            "contents": "capitalize()"
+        },
+        {
+            "trigger": "decapitalize\tAdo_Raw_Sanitizor",
+            "contents": "decapitalize()"
+        },
+        {
+            "trigger": "title\tAdo_Raw_Sanitizor",
+            "contents": "title()"
+        }
+    ]
+}

@@ -1,8 +1,9 @@
 {
-    // Validation Rules
     "scope": "meta.object-literal.js string.quoted.single.js",
+
     "completions":
     [
+        // Validation Rules
         {
             "trigger": "above\tAdo_Valid_Rules",
             "contents": "above:$0"
@@ -183,7 +184,7 @@
         // Sanitization_Rules
         {
             "trigger": "normemail\tAdo_Sanitization_Rules",
-            "contents": "normalize_email"
+            "contents": "normalize_email:!rd,!re,!lc"
         },
         {
             "trigger": "esc\tAdo_Sanitization_Rules",

@@ -2,8 +2,6 @@
   <content><![CDATA[
 /**
  * handle 'orFail' methods globally
- *
- * use inside "app/Listeners/Http.js > Http.handleError"
  */
 if (error.name === 'ModelNotFoundException') {
     response.status(401).send('Resource not found')

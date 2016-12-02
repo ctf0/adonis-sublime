@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
 {{ form.open({${1:action/route/url}: '${2:UserController.store}', method: 'POST', params: {id: 1}, files: true}) }}
+    {{ csrfField }}
     $0
 {{ form.close() }}
 ]]></content>

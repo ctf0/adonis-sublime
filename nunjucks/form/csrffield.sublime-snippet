@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ csrfField }}]]></content>
+  <tabTrigger>ado-formcsrfField</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>
