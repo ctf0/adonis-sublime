@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield Hash.verify(value, hashedValue)]]></content>
+  <tabTrigger>ado-haverify</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

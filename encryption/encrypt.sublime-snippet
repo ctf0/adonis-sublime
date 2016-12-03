@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Encryption.encrypt($0)]]></content>
+  <tabTrigger>ado-encencrypt</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

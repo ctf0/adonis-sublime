@@ -99,5 +99,10 @@
         "command": "run_macro_file",
         "args": {"file": "Packages/adonisjs/import/redis.sublime-macro"}
     },
+    {
+        "caption": "Adonis import Encryption",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/import/encryption.sublime-macro"}
+    },
 
 ]

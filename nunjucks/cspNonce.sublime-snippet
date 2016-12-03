@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ cspNonce }}]]></content>
+  <tabTrigger>ado-cspNonce</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield Hash.make($0, 10)]]></content>
+  <tabTrigger>ado-hamake</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
