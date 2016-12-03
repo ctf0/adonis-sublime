@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
 {% if ${1:} %}
-  //...
+  {#...#}
 {% elif tired %}
-  //...
+  {#...#}
 {% else %}
-  //...
+  {#...#}
 {% endif %}
 ]]></content>
   <tabTrigger>ado-ifelse</tabTrigger>

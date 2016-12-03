@@ -1,8 +1,5 @@
 <snippet>
-  <content><![CDATA[
-const Config = use('Config')
-Config.get('file.key')
-]]></content>
+  <content><![CDATA[Config.get('file.key')]]></content>
   <tabTrigger>ado-getConf</tabTrigger>
   <scope>source.js</scope>
 </snippet>

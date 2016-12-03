@@ -89,5 +89,10 @@
         "command": "run_macro_file",
         "args": {"file": "Packages/adonisjs/import/validator.sublime-macro"}
     },
+    {
+        "caption": "Adonis import Antl",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/import/antl.sublime-macro"}
+    },
 
 ]

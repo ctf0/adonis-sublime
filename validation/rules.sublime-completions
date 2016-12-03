@@ -180,6 +180,10 @@
             "trigger": "uni\tAdo_Valid_Rules",
             "contents": "unique:table,column,except,id"
         },
+        {
+            "trigger": "conf\tAdo_Valid_Rules",
+            "contents": "confirmed"
+        },
 
         // Sanitization_Rules
         {
