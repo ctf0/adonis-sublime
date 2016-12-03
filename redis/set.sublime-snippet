@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Redis.set('key', JSON.stringify(data))]]></content>
+  <tabTrigger>ado-redset</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

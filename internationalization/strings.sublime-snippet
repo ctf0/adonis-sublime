@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.strings('group')]]></content>
+  <tabTrigger>ado-antstrings</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

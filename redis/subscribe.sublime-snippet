@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Redis.subscribe('channelName', function * (arg) {
+  // console.log('received track', track)
+})]]></content>
+  <tabTrigger>ado-redsub</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

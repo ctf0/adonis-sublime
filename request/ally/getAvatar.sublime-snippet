@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[getAvatar()]]></content>
+  <tabTrigger>ado-reqallgetAvatar</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

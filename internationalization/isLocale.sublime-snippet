@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.isLocale('locale')]]></content>
+  <tabTrigger>ado-antisLocale</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

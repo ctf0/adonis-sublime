@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.formatRelative(key, value, options)]]></content>
+  <tabTrigger>ado-antformatRelative</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

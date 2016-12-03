@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const db = Antl.driver($0)
+yield db.reload()
+    ]]></content>
+  <tabTrigger>ado-antreload</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

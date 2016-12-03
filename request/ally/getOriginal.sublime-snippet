@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[getOriginal()]]></content>
+  <tabTrigger>ado-reqallgetOriginal</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

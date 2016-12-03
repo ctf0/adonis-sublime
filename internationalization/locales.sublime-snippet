@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.locales()]]></content>
+  <tabTrigger>ado-antlocales</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

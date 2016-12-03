@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.set(group, key, value)]]></content>
+  <tabTrigger>ado-antset</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

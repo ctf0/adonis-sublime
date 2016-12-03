@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Redis.psubscribe('regex', function * (message, channel, pattern) {
+   // ...
+})]]></content>
+  <tabTrigger>ado-redpsub</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

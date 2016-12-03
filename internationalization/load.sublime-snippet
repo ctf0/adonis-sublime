@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const db = Antl.driver($0)
+yield db.load()
+    ]]></content>
+  <tabTrigger>ado-antload</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Redis.connection('name')$0]]></content>
+  <tabTrigger>ado-redconnection</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

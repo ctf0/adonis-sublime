@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.formatNumber(value, options)]]></content>
+  <tabTrigger>ado-antformatNumber</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

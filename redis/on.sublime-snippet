@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Redis.on('event', function () {
+    // ...
+})]]></content>
+  <tabTrigger>ado-redon</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

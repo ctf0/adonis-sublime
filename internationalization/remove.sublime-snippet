@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.remove(group, key)]]></content>
+  <tabTrigger>ado-antremove</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.formatDate(value, options)]]></content>
+  <tabTrigger>ado-antformatDate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

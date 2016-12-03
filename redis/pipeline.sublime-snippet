@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+const pipeline = Redis.pipeline()
+pipeline
+  .set('foo', 'bar')
+  .set('bar', 'baz')
+yield pipeline.exec()
+  ]]></content>
+  <tabTrigger>ado-redpipeline</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

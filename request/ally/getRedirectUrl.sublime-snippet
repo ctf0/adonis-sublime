@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield request.ally.driver('name').getRedirectUrl()]]></content>
+  <tabTrigger>ado-reqallgetRedirectUrl</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

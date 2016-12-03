@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield request.ally.driver('name')${1:.fields(['email', 'verified'])}.getUser()]]></content>
+  <tabTrigger>ado-reqallgetUser</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

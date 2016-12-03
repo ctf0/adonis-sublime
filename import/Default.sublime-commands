@@ -94,5 +94,10 @@
         "command": "run_macro_file",
         "args": {"file": "Packages/adonisjs/import/antl.sublime-macro"}
     },
+    {
+        "caption": "Adonis import Redis",
+        "command": "run_macro_file",
+        "args": {"file": "Packages/adonisjs/import/redis.sublime-macro"}
+    },
 
 ]

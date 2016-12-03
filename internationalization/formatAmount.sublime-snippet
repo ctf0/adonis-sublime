@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.formatAmount(value, currency, options)]]></content>
+  <tabTrigger>ado-antformatAmount</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

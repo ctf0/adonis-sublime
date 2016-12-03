@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.formatMessage('file.key', {foo: 'bar'}, [callback|options])]]></content>
+  <tabTrigger>ado-antformatMessage</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

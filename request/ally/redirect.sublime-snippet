@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield request.ally.driver('name')${1:.scope(['public_profile', 'email', 'user_friends'])}.redirect()]]></content>
+  <tabTrigger>ado-reqallredirect</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

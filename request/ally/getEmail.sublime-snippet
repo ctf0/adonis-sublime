@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[getEmail()]]></content>
+  <tabTrigger>ado-reqallgetEmail</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

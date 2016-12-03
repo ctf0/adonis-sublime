@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Redis.unsubscribe('channelName')]]></content>
+  <tabTrigger>ado-redunsub</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

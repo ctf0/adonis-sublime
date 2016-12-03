@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[getName()]]></content>
+  <tabTrigger>ado-reqallgetName</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

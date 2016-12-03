@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[{{ antl.formatMessage() }}]]></content>
+  <tabTrigger>ado-antl</tabTrigger>
+  <scope>text.html.nunjucks, text.html.twig, source.njk</scope>
+</snippet>

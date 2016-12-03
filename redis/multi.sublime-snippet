@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+const multi = Redis.multi()
+multi
+  .set('foo', 'bar')
+  .set('bar', 'baz')
+yield multi.exec()
+  ]]></content>
+  <tabTrigger>ado-redmulti</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Redis.quit($0)]]></content>
+  <tabTrigger>ado-redquit</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

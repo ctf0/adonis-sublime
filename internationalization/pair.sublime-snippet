@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.pair('group')]]></content>
+  <tabTrigger>ado-antpair</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[Antl.get('file.key')]]></content>
+  <tabTrigger>ado-antget</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

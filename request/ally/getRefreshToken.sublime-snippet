@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[getRefreshToken()]]></content>
+  <tabTrigger>ado-reqallgetRefreshToken</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
