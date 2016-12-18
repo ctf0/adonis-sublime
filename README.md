@@ -9,7 +9,7 @@ adonisJs snippets for SublimeText
 2- All the empty triggers use thier original names, like 
 > ado-linkTo, ado-appPath, etc...
 
-3- For validatin & sanitization "rules / raw", you just write the name, like
+3- For validation & sanitization "rules / raw", you just write the name, like
 > array, required, etc...
 
 | NAME                 | TRIGGER          |
