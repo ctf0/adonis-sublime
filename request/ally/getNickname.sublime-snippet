@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[getNickname()]]></content>
-  <tabTrigger>ado-reqallgetNickname</tabTrigger>
+  <tabTrigger>ado-reqallygetNickname</tabTrigger>
   <scope>source.js</scope>
 </snippet>

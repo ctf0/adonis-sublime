@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[const successIcon = this.icon('warn')]]></content>
+  <content><![CDATA[const warnIcon = this.icon('warn')]]></content>
   <tabTrigger>ado-awarnIcon</tabTrigger>
   <scope>source.js</scope>
 </snippet>

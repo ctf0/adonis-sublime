@@ -2,107 +2,107 @@
     {
         "caption": "Adonis import Model",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/model.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/model.sublime-macro"}
     },
     {
         "caption": "Adonis import Command",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/command.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/command.sublime-macro"}
     },
     {
         "caption": "Adonis import Config",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/config.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/config.sublime-macro"}
     },
     {
         "caption": "Adonis import Database",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/database.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/database.sublime-macro"}
     },
     {
         "caption": "Adonis import Env",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/env.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/env.sublime-macro"}
     },
     {
         "caption": "Adonis import Event",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/event.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/event.sublime-macro"}
     },
     {
         "caption": "Adonis import Factory",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/factory.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/factory.sublime-macro"}
     },
     {
         "caption": "Adonis import Hash",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/hash.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/hash.sublime-macro"}
     },
     {
         "caption": "Adonis import Helpers",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/helpers.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/helpers.sublime-macro"}
     },
     {
         "caption": "Adonis import Lucid",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/lucid.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/lucid.sublime-macro"}
     },
     {
         "caption": "Adonis import Middleware",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/middleware.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/middleware.sublime-macro"}
     },
     {
         "caption": "Adonis import Request",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/request.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/request.sublime-macro"}
     },
     {
         "caption": "Adonis import Response",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/response.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/response.sublime-macro"}
     },
     {
         "caption": "Adonis import Route",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/route.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/route.sublime-macro"}
     },
     {
         "caption": "Adonis import Schema",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/schema.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/schema.sublime-macro"}
     },
     {
         "caption": "Adonis import View",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/view.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/view.sublime-macro"}
     },
     {
         "caption": "Adonis import Mail",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/mail.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/mail.sublime-macro"}
     },
     {
         "caption": "Adonis import Validator",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/validator.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/validator.sublime-macro"}
     },
     {
         "caption": "Adonis import Antl",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/antl.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/antl.sublime-macro"}
     },
     {
         "caption": "Adonis import Redis",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/redis.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/redis.sublime-macro"}
     },
     {
         "caption": "Adonis import Encryption",
         "command": "run_macro_file",
-        "args": {"file": "Packages/adonisjs/import/encryption.sublime-macro"}
+        "args": {"file": "Packages/AdonisJs/import/encryption.sublime-macro"}
     },
 
 ]

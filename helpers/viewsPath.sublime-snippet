@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.viewsPath()]]></content>
-  <tabTrigger>ado-hviewsPath</tabTrigger>
+  <tabTrigger>ado-viewsPath</tabTrigger>
   <scope>source.js</scope>
 </snippet>

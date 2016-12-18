@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[fire('event', data)]]></content>
+  <content><![CDATA[Event.fire('event', data)]]></content>
   <tabTrigger>ado-efire</tabTrigger>
   <scope>source.js</scope>
 </snippet>

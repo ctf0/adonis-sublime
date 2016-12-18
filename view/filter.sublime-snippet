@@ -1,9 +1,8 @@
 <snippet>
   <content><![CDATA[
 /**
- * Views globals are available to all the templates
- *
- * use inside "app/Listeners/Http.js > Http.onStart"
+ * Just like globals, you can also set filters.
+ * The job of the filters is to take an input and transform its value based on the requirements
  *
  * call it by {{ ${2:} | ${1:name}(${3:}) }}
  */

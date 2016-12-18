@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[getListeners('event')]]></content>
+  <content><![CDATA[Event.getListeners('event')]]></content>
   <tabTrigger>ado-egetListeners</tabTrigger>
   <scope>source.js</scope>
 </snippet>

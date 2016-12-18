@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.migrationsPath()]]></content>
-  <tabTrigger>ado-hmigrationsPath</tabTrigger>
+  <tabTrigger>ado-migrationsPath</tabTrigger>
   <scope>source.js</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.makeNameSpace('directory', 'File')]]></content>
-  <tabTrigger>ado-hmakeNameSpace</tabTrigger>
+  <tabTrigger>ado-makeNameSpace</tabTrigger>
   <scope>source.js</scope>
 </snippet>

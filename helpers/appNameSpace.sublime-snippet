@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.appNameSpace()]]></content>
-  <tabTrigger>ado-happNameSpace</tabTrigger>
+  <tabTrigger>ado-appNameSpace</tabTrigger>
   <scope>source.js</scope>
 </snippet>

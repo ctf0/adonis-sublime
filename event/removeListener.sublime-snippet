@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[removeListener('event')]]></content>
+  <content><![CDATA[Event.removeListener('event')]]></content>
   <tabTrigger>ado-eremoveListener</tabTrigger>
   <scope>source.js</scope>
 </snippet>

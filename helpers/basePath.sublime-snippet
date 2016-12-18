@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.basePath()]]></content>
-  <tabTrigger>ado-hbasePath</tabTrigger>
+  <tabTrigger>ado-basePath</tabTrigger>
   <scope>source.js</scope>
 </snippet>

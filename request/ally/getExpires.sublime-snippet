@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[getExpires()]]></content>
-  <tabTrigger>ado-reqallgetExpires</tabTrigger>
+  <tabTrigger>ado-reqallygetExpires</tabTrigger>
   <scope>source.js</scope>
 </snippet>

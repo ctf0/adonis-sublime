@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-when('event', function () {
+Event.when('event', function () {
     // console.log(this.emitter)
 })]]></content>
   <tabTrigger>ado-eemitter</tabTrigger>

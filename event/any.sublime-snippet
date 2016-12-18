@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-any(function (event) {
+Event.any(function (event) {
     // console.log(event)
 })]]></content>
   <tabTrigger>ado-eany</tabTrigger>

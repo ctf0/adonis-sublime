@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-when('event',function * () {
+Event.when('event',function * () {
   // ...
 })]]></content>
   <tabTrigger>ado-ewhenclosure</tabTrigger>

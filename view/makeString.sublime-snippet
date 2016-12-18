@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[makeString('{{ foo }}', {foo: 'bar'})]]></content>
+  <content><![CDATA[View.makeString('{{ foo }}', {foo: 'bar'})]]></content>
   <tabTrigger>ado-vmakeString</tabTrigger>
   <scope>source.js</scope>
 </snippet>

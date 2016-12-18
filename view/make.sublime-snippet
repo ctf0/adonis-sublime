@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[make('viewName')]]></content>
+  <content><![CDATA[yield View.make('viewName')]]></content>
   <tabTrigger>ado-vmake</tabTrigger>
   <scope>source.js</scope>
 </snippet>

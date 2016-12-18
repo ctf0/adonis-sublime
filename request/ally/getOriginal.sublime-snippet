@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[getOriginal()]]></content>
-  <tabTrigger>ado-reqallgetOriginal</tabTrigger>
+  <tabTrigger>ado-reqallygetOriginal</tabTrigger>
   <scope>source.js</scope>
 </snippet>

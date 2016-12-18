@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[when('event','listener')]]></content>
+  <content><![CDATA[Event.when('event','listener')]]></content>
   <tabTrigger>ado-ewhen</tabTrigger>
   <scope>source.js</scope>
 </snippet>

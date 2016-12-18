@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[getAvatar()]]></content>
-  <tabTrigger>ado-reqallgetAvatar</tabTrigger>
+  <tabTrigger>ado-reqallygetAvatar</tabTrigger>
   <scope>source.js</scope>
 </snippet>

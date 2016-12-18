@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.configPath()]]></content>
-  <tabTrigger>ado-hconfigPath</tabTrigger>
+  <tabTrigger>ado-configPath</tabTrigger>
   <scope>source.js</scope>
 </snippet>

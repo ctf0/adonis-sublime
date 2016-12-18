@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.resourcesPath()]]></content>
-  <tabTrigger>ado-hresourcesPath</tabTrigger>
+  <tabTrigger>ado-resourcesPath</tabTrigger>
   <scope>source.js</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[Helpers.storagePath()]]></content>
-  <tabTrigger>ado-hstoragePath</tabTrigger>
+  <tabTrigger>ado-storagePath</tabTrigger>
   <scope>source.js</scope>
 </snippet>

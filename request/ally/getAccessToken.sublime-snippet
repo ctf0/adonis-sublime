@@ -1,5 +1,5 @@
 <snippet>
   <content><![CDATA[getAccessToken()]]></content>
-  <tabTrigger>ado-reqallgetAccessToken</tabTrigger>
+  <tabTrigger>ado-reqallygetAccessToken</tabTrigger>
   <scope>source.js</scope>
 </snippet>
