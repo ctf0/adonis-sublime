@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[attach(rows, [pivotValues])]]></content>
+  <tabTrigger>ado-mattach</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

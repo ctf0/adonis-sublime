@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[updatePivot(values, [relatedModelId])]]></content>
+  <tabTrigger>ado-mupdatePivot</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

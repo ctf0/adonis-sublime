@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[dissociate()]]></content>
+  <tabTrigger>ado-mdissociate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

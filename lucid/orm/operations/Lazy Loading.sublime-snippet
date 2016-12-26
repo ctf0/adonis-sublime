@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[fetch()]]></content>
+  <tabTrigger>ado-mfetch</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

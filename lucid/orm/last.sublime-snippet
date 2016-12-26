@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[last()]]></content>
+  <tabTrigger>ado-mlast</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[scope('relationMethod', (builder) => {
+    builder.$0
+  }) ]]></content>
+  <tabTrigger>ado-mscope</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

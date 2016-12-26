@@ -3,10 +3,10 @@ adonisJs snippets for SublimeText
 
 ## Usage
 
-1- All the snippets start with `ado-`, like 
+1- All the snippets start with `ado-`, like
 > ado-req, ado-res, etc...
 
-2- All the empty triggers use thier original names, like 
+2- All the empty triggers use thier original names, like
 > ado-linkTo, ado-appPath, etc...
 
 3- For validation & sanitization "rules / raw", you just write the name, like

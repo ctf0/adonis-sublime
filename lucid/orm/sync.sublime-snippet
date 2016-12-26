@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[sync(rows, [pivotValues])]]></content>
+  <tabTrigger>ado-msync</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[withPivot(keys)]]></content>
+  <tabTrigger>ado-mwithPivot</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

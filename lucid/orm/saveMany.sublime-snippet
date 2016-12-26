@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[yield ModelName.saveMany([$0])]]></content>
+  <tabTrigger>ado-msaveMany</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

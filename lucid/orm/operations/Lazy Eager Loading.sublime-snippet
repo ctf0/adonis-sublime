@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[related('relationMethod', 'relationMethod').load()]]></content>
+  <tabTrigger>ado-mrelated</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

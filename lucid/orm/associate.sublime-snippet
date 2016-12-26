@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[associate(modelInstance)]]></content>
+  <tabTrigger>ado-massociate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

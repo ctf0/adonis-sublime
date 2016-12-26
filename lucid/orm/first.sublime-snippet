@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[query().where('foo', 'bar').first()]]></content>
+  <content><![CDATA[first()]]></content>
   <tabTrigger>ado-mfirst</tabTrigger>
   <scope>source.js</scope>
 </snippet>

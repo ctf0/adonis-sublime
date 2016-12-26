@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[request.auth.generate(user)]]></content>
+  <content><![CDATA[request.auth.generate(user,{meta})]]></content>
   <tabTrigger>ado-reqauthgenerate</tabTrigger>
   <scope>source.js</scope>
 </snippet>

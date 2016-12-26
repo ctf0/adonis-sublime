@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[request.auth.getPayload()]]></content>
+  <tabTrigger>ado-reqauthgetPayload</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

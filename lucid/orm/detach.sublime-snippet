@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[detach(rows)]]></content>
+  <tabTrigger>ado-mdetach</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

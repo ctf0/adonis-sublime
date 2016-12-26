@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[with('relationMethod').fetch()]]></content>
+  <tabTrigger>ado-mwith</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
