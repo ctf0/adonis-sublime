@@ -1,4 +1,4 @@
-# adonis-sublime
+# adonis-sublime [ABANDONED]
 adonisJs snippets for SublimeText
 
 ## Usage
